@@ -1,0 +1,2365 @@
+Last Update,Province/State,Country,Confirmed,Deaths,Recovered,Suspected
+2020-06-04,New South Wales,Australia,4019.0,51.0,3321.0,0
+2020-06-05,New South Wales,Australia,4082.0,51.0,3465.0,0
+2020-06-06,New South Wales,Australia,4075.0,52.0,3494.0,0
+2020-06-07,New South Wales,Australia,4085.0,53.0,3493.0,0
+2020-06-08,New South Wales,Australia,4121.0,53.0,3480.0,0
+2020-06-09,New South Wales,Australia,4107.0,53.0,3457.0,0
+2020-06-10,New South Wales,Australia,4112.0,53.0,3494.0,0
+2020-06-04,Victoria,Australia,1995.0,24.0,1829.0,0
+2020-06-05,Victoria,Australia,2011.0,24.0,1888.0,0
+2020-06-06,Victoria,Australia,2021.0,24.0,1826.0,0
+2020-06-07,Victoria,Australia,2029.0,25.0,1885.0,0
+2020-06-08,Victoria,Australia,2050.0,25.0,1923.0,0
+2020-06-09,Victoria,Australia,2054.0,25.0,1956.0,0
+2020-06-10,Victoria,Australia,2058.0,25.0,1980.0,0
+2020-06-04,Queensland,Australia,1370.0,8.0,1293.0,0
+2020-06-05,Queensland,Australia,1383.0,8.0,1325.0,0
+2020-06-06,Queensland,Australia,1373.0,8.0,1369.0,0
+2020-06-07,Queensland,Australia,1365.0,8.0,1378.0,0
+2020-06-08,Queensland,Australia,1359.0,8.0,1391.0,0
+2020-06-09,Queensland,Australia,1357.0,8.0,1418.0,0
+2020-06-10,Queensland,Australia,1358.0,8.0,1433.0,0
+2020-06-04,South Australia,Australia,574.0,5.0,552.0,0
+2020-06-05,South Australia,Australia,582.0,5.0,567.0,0
+2020-06-06,South Australia,Australia,582.0,5.0,572.0,0
+2020-06-07,South Australia,Australia,577.0,5.0,567.0,0
+2020-06-08,South Australia,Australia,573.0,5.0,565.0,0
+2020-06-09,South Australia,Australia,570.0,5.0,579.0,0
+2020-06-10,South Australia,Australia,569.0,5.0,594.0,0
+2020-03-10,From Diamond Princess,Australia,27.0,0.0,0.0,0
+2020-03-11,From Diamond Princess,Australia,14.0,0.0,0.0,0
+2020-03-13,From Diamond Princess,Australia,38.0,0.0,0.0,0
+2020-03-14,From Diamond Princess,Australia,290.0,0.0,0.0,0
+2020-03-15,From Diamond Princess,Australia,376.0,0.0,0.0,0
+2020-03-16,From Diamond Princess,Australia,73.0,0.0,0.0,0
+2020-06-04,Western Australia,Australia,589.0,9.0,690.0,0
+2020-06-05,Western Australia,Australia,588.0,9.0,697.0,0
+2020-06-06,Western Australia,Australia,587.0,10.0,726.0,0
+2020-06-07,Western Australia,Australia,584.0,10.0,727.0,0
+2020-06-08,Western Australia,Australia,587.0,10.0,719.0,0
+2020-06-09,Western Australia,Australia,588.0,10.0,718.0,0
+2020-06-10,Western Australia,Australia,587.0,10.0,724.0,0
+2020-06-04,Tasmania,Australia,223.0,17.0,219.0,0
+2020-06-05,Tasmania,Australia,221.0,18.0,219.0,0
+2020-06-06,Tasmania,Australia,219.0,17.0,226.0,0
+2020-06-07,Tasmania,Australia,218.0,17.0,227.0,0
+2020-06-08,Tasmania,Australia,218.0,18.0,227.0,0
+2020-06-09,Tasmania,Australia,219.0,18.0,231.0,0
+2020-06-10,Tasmania,Australia,222.0,18.0,232.0,0
+2020-06-04,Northern Territory,Australia,34.0,0.0,37.0,0
+2020-06-05,Northern Territory,Australia,34.0,0.0,38.0,0
+2020-06-06,Northern Territory,Australia,33.0,0.0,37.0,0
+2020-06-07,Northern Territory,Australia,33.0,0.0,39.0,0
+2020-06-08,Northern Territory,Australia,32.0,0.0,39.0,0
+2020-06-09,Northern Territory,Australia,32.0,0.0,38.0,0
+2020-06-10,Northern Territory,Australia,32.0,0.0,39.0,0
+2020-03-22,Diamond Princess cruise ship,Australia,0.0,0.0,0.0,0
+2020-03-23,Diamond Princess cruise ship,Australia,0.0,0.0,0.0,0
+2020-03-24,Diamond Princess cruise ship,Australia,0.0,0.0,0.0,0
+2020-03-25,Diamond Princess cruise ship,Australia,0.0,0.0,0.0,0
+2020-03-26,Diamond Princess cruise ship,Australia,0.0,0.0,0.0,0
+2020-03-27,Diamond Princess cruise ship,Australia,0.0,0.0,0.0,0
+2020-03-28,Diamond Princess cruise ship,Australia,0.0,0.0,0.0,0
+2020-06-04,Australian Capital Territory,Australia,108.0,3.0,102.0,0
+2020-06-05,Australian Capital Territory,Australia,111.0,3.0,106.0,0
+2020-06-06,Australian Capital Territory,Australia,110.0,3.0,111.0,0
+2020-06-07,Australian Capital Territory,Australia,109.0,3.0,109.0,0
+2020-06-08,Australian Capital Territory,Australia,109.0,3.0,105.0,0
+2020-06-09,Australian Capital Territory,Australia,110.0,3.0,109.0,0
+2020-06-10,Australian Capital Territory,Australia,108.0,3.0,111.0,0
+2020-06-05,Acre,Brazil,97058.0,881.0,0.0,0
+2020-06-06,Acre,Brazil,73772.0,6571.0,0.0,0
+2020-06-07,Acre,Brazil,2596.0,8834.0,0.0,0
+2020-06-08,Acre,Brazil,6954.0,2552.0,0.0,0
+2020-06-10,Acre,Brazil,41337.0,284.0,0.0,0
+2020-06-04,Alagoas,Brazil,11497.0,1532.0,0.0,0
+2020-06-08,Alagoas,Brazil,66722.0,2480.0,0.0,0
+2020-06-09,Alagoas,Brazil,48023.0,2881.0,0.0,0
+2020-06-07,Amapa,Brazil,134613.0,25.0,0.0,0
+2020-06-08,Amapa,Brazil,198951.0,55.0,0.0,0
+2020-06-09,Amazonas,Brazil,129439.0,12209.0,0.0,0
+2020-06-08,Bahia,Brazil,30482.0,4628.0,0.0,0
+2020-06-10,Bahia,Brazil,233329.0,7721.0,0.0,0
+2020-06-05,Ceara,Brazil,164522.0,40910.0,0.0,0
+2020-06-06,Ceara,Brazil,410560.0,135625.0,0.0,0
+2020-06-07,Ceara,Brazil,400619.0,63235.0,0.0,0
+2020-06-07,Distrito Federal,Brazil,13101.0,1672.0,0.0,0
+2020-06-08,Distrito Federal,Brazil,333725.0,782.0,0.0,0
+2020-06-10,Espirito Santo,Brazil,107910.0,6475.0,0.0,0
+2020-06-04,Goias,Brazil,23655.0,890.0,0.0,0
+2020-06-05,Goias,Brazil,47888.0,2666.0,0.0,0
+2020-06-06,Goias,Brazil,11204.0,3711.0,0.0,0
+2020-06-10,Goias,Brazil,37165.0,884.0,0.0,0
+2020-06-04,Maranhao,Brazil,374292.0,1665.0,0.0,0
+2020-06-05,Maranhao,Brazil,1315517.0,5706.0,0.0,0
+2020-06-06,Maranhao,Brazil,1088462.0,8598.0,0.0,0
+2020-06-10,Maranhao,Brazil,3242818.0,13637.0,0.0,0
+2020-06-04,Mato Grosso,Brazil,7976.0,495.0,0.0,0
+2020-06-05,Mato Grosso,Brazil,29980.0,1412.0,0.0,0
+2020-06-06,Mato Grosso,Brazil,32834.0,1691.0,0.0,0
+2020-06-08,Mato Grosso do Sul,Brazil,2953.0,288.0,0.0,0
+2020-06-04,Minas Gerais,Brazil,57420.0,2595.0,0.0,0
+2020-06-05,Minas Gerais,Brazil,140120.0,3616.0,0.0,0
+2020-06-04,Parana,Brazil,19043.0,4463.0,0.0,0
+2020-06-05,Parana,Brazil,51483.0,12253.0,0.0,0
+2020-06-06,Parana,Brazil,73296.0,11520.0,0.0,0
+2020-06-07,Parana,Brazil,8484.0,1608.0,0.0,0
+2020-06-07,Pernambuco,Brazil,929099.0,20933.0,0.0,0
+2020-06-08,Pernambuco,Brazil,852382.0,23020.0,0.0,0
+2020-06-09,Pernambuco,Brazil,82274.0,6774.0,0.0,0
+2020-06-07,Piaui,Brazil,12070.0,2190.0,0.0,0
+2020-06-10,Piaui,Brazil,37944.0,1456.0,0.0,0
+2020-06-09,Rio Grande do Norte,Brazil,39526.0,696.0,0.0,0
+2020-06-09,Rio Grande do Sul,Brazil,92216.0,1480.0,0.0,0
+2020-06-10,Rio Grande do Sul,Brazil,182573.0,1022.0,0.0,0
+2020-06-09,Rio de Janeiro,Brazil,2878571.0,27677.0,0.0,0
+2020-06-10,Rio de Janeiro,Brazil,1709042.0,5955.0,0.0,0
+2020-06-04,Santa Catarina,Brazil,56384.0,594.0,0.0,0
+2020-06-05,Santa Catarina,Brazil,108295.0,287.0,0.0,0
+2020-06-04,Sergipe,Brazil,36253.0,484.0,0.0,0
+2020-06-05,Sergipe,Brazil,136231.0,978.0,0.0,0
+2020-06-06,Sergipe,Brazil,209227.0,911.0,0.0,0
+2020-06-07,Sergipe,Brazil,78184.0,516.0,0.0,0
+2020-06-08,Tocantins,Brazil,119262.0,155.0,0.0,0
+2020-06-09,Tocantins,Brazil,21554.0,68.0,0.0,0
+2020-06-05,Unknown,Brazil,0.0,0.0,4190.0,0
+2020-06-06,Unknown,Brazil,0.0,0.0,2823135.0,0
+2020-06-07,Unknown,Brazil,0.0,0.0,3985922.0,0
+2020-06-04,Ontario,Canada,31096.0,2469.0,11211.0,0
+2020-06-05,Ontario,Canada,31530.0,2512.0,7326.0,0
+2020-06-06,Ontario,Canada,31773.0,2531.0,6051.0,0
+2020-06-07,Ontario,Canada,32061.0,2532.0,7642.0,0
+2020-06-08,Ontario,Canada,32424.0,2549.0,9277.0,0
+2020-06-09,Ontario,Canada,32815.0,2572.0,9531.0,0
+2020-06-10,Ontario,Canada,33210.0,2591.0,10019.0,0
+2020-06-04,British Columbia,Canada,2639.0,173.0,2175.0,0
+2020-06-05,British Columbia,Canada,2642.0,175.0,2186.0,0
+2020-06-06,British Columbia,Canada,2674.0,176.0,2212.0,0
+2020-06-07,British Columbia,Canada,2666.0,175.0,2259.0,0
+2020-06-08,British Columbia,Canada,2677.0,178.0,2274.0,0
+2020-06-09,British Columbia,Canada,2688.0,180.0,2302.0,0
+2020-06-10,British Columbia,Canada,2701.0,182.0,2367.0,0
+2020-03-09,"London, ON",Canada,1.0,0.0,2.0,0
+2020-03-10,"London, ON",Canada,1.0,0.0,2.0,0
+2020-03-11,"London, ON",Canada,1.0,0.0,1.0,0
+2020-03-12,"London, ON",Canada,1.0,0.0,1.0,0
+2020-03-13,"London, ON",Canada,1.0,0.0,2.0,0
+2020-03-14,"London, ON",Canada,1.0,0.0,2.0,0
+2020-03-15,"London, ON",Canada,1.0,0.0,2.0,0
+2020-03-09,"Toronto, ON",Canada,37.0,0.0,1.0,0
+2020-03-11,"Toronto, ON",Canada,37.0,0.0,0.0,0
+2020-03-12,"Toronto, ON",Canada,24.0,0.0,2.0,0
+2020-03-13,"Toronto, ON",Canada,23.0,0.0,2.0,0
+2020-03-14,"Toronto, ON",Canada,27.0,0.0,3.0,0
+2020-03-15,"Toronto, ON",Canada,28.0,0.0,3.0,0
+2020-03-12," Montreal, QC",Canada,48.0,0.0,0.0,0
+2020-03-09,"Calgary, Alberta",Canada,1.0,0.0,0.0,0
+2020-03-10,"Calgary, Alberta",Canada,1.0,0.0,0.0,0
+2020-03-11,"Calgary, Alberta",Canada,1.0,0.0,0.0,0
+2020-03-12,"Calgary, Alberta",Canada,1.0,0.0,0.0,0
+2020-03-13,"Calgary, Alberta",Canada,1.0,0.0,0.0,0
+2020-03-14,"Calgary, Alberta",Canada,1.0,0.0,0.0,0
+2020-03-15,"Calgary, Alberta",Canada,1.0,0.0,0.0,0
+2020-06-04,Alberta,Canada,7074.0,154.0,6976.0,0
+2020-06-05,Alberta,Canada,7103.0,157.0,6985.0,0
+2020-06-06,Alberta,Canada,7094.0,158.0,6804.0,0
+2020-06-07,Alberta,Canada,7105.0,156.0,6955.0,0
+2020-06-08,Alberta,Canada,7067.0,158.0,7286.0,0
+2020-06-09,Alberta,Canada,7019.0,159.0,7451.0,0
+2020-06-10,Alberta,Canada,7011.0,161.0,7668.0,0
+2020-06-04,Quebec,Canada,52713.0,4890.0,18872.0,0
+2020-06-05,Quebec,Canada,53514.0,4971.0,19048.0,0
+2020-06-06,Quebec,Canada,54278.0,5066.0,18744.0,0
+2020-06-07,Quebec,Canada,54937.0,5168.0,19098.0,0
+2020-06-08,Quebec,Canada,55539.0,5219.0,19718.0,0
+2020-06-09,Quebec,Canada,56108.0,5297.0,20096.0,0
+2020-06-10,Quebec,Canada,56571.0,5392.0,20685.0,0
+2020-06-04,New Brunswick,Canada,134.0,0.0,86.0,0
+2020-06-05,New Brunswick,Canada,135.0,0.0,75.0,0
+2020-06-06,New Brunswick,Canada,136.0,0.0,74.0,0
+2020-06-07,New Brunswick,Canada,136.0,0.0,78.0,0
+2020-06-08,New Brunswick,Canada,134.0,0.0,68.0,0
+2020-06-09,New Brunswick,Canada,132.0,0.0,65.0,0
+2020-06-10,New Brunswick,Canada,136.0,0.0,90.0,0
+2020-06-04,Grand Princess,Canada,14.0,0.0,9.0,0
+2020-06-05,Grand Princess,Canada,13.0,0.0,10.0,0
+2020-06-06,Grand Princess,Canada,13.0,0.0,9.0,0
+2020-06-07,Grand Princess,Canada,14.0,0.0,9.0,0
+2020-06-08,Grand Princess,Canada,13.0,0.0,8.0,0
+2020-06-09,Grand Princess,Canada,12.0,0.0,8.0,0
+2020-06-10,Grand Princess,Canada,14.0,0.0,8.0,0
+2020-06-04,Manitoba,Canada,322.0,7.0,182.0,0
+2020-06-05,Manitoba,Canada,328.0,8.0,181.0,0
+2020-06-06,Manitoba,Canada,328.0,8.0,187.0,0
+2020-06-07,Manitoba,Canada,324.0,8.0,182.0,0
+2020-06-08,Manitoba,Canada,322.0,8.0,168.0,0
+2020-06-09,Manitoba,Canada,318.0,8.0,170.0,0
+2020-06-10,Manitoba,Canada,318.0,8.0,166.0,0
+2020-06-04,Saskatchewan,Canada,693.0,11.0,648.0,0
+2020-06-05,Saskatchewan,Canada,712.0,11.0,666.0,0
+2020-06-06,Saskatchewan,Canada,721.0,11.0,672.0,0
+2020-06-07,Saskatchewan,Canada,727.0,11.0,683.0,0
+2020-06-08,Saskatchewan,Canada,726.0,11.0,681.0,0
+2020-06-09,Saskatchewan,Canada,728.0,11.0,681.0,0
+2020-06-10,Saskatchewan,Canada,732.0,11.0,691.0,0
+2020-06-04,Newfoundland and Labrador,Canada,267.0,3.0,185.0,0
+2020-06-05,Newfoundland and Labrador,Canada,273.0,3.0,167.0,0
+2020-06-06,Newfoundland and Labrador,Canada,271.0,3.0,173.0,0
+2020-06-07,Newfoundland and Labrador,Canada,272.0,3.0,185.0,0
+2020-06-08,Newfoundland and Labrador,Canada,268.0,3.0,172.0,0
+2020-06-09,Newfoundland and Labrador,Canada,261.0,3.0,163.0,0
+2020-06-10,Newfoundland and Labrador,Canada,260.0,4.0,172.0,0
+2020-06-04,Prince Edward Island,Canada,29.0,0.0,20.0,0
+2020-06-05,Prince Edward Island,Canada,28.0,-0.0,18.0,0
+2020-06-06,Prince Edward Island,Canada,27.0,-0.0,19.0,0
+2020-06-07,Prince Edward Island,Canada,27.0,0.0,20.0,0
+2020-06-08,Prince Edward Island,Canada,28.0,0.0,18.0,0
+2020-06-09,Prince Edward Island,Canada,28.0,0.0,17.0,0
+2020-06-10,Prince Edward Island,Canada,28.0,-0.0,18.0,0
+2020-06-04,Nova Scotia,Canada,1062.0,62.0,673.0,0
+2020-06-05,Nova Scotia,Canada,1065.0,62.0,666.0,0
+2020-06-06,Nova Scotia,Canada,1071.0,62.0,720.0,0
+2020-06-07,Nova Scotia,Canada,1062.0,64.0,737.0,0
+2020-06-08,Nova Scotia,Canada,1050.0,64.0,631.0,0
+2020-06-09,Nova Scotia,Canada,1053.0,64.0,602.0,0
+2020-06-10,Nova Scotia,Canada,1069.0,64.0,626.0,0
+2020-06-04,Northwest Territories,Canada,5.0,0.0,4.0,0
+2020-06-05,Northwest Territories,Canada,6.0,0.0,4.0,0
+2020-06-06,Northwest Territories,Canada,6.0,0.0,4.0,0
+2020-06-07,Northwest Territories,Canada,6.0,0.0,4.0,0
+2020-06-08,Northwest Territories,Canada,6.0,0.0,4.0,0
+2020-06-09,Northwest Territories,Canada,6.0,0.0,3.0,0
+2020-06-10,Northwest Territories,Canada,6.0,0.0,4.0,0
+2020-06-04,Diamond Princess cruise ship,Canada,1.0,1.0,0.0,0
+2020-06-05,Diamond Princess cruise ship,Canada,1.0,1.0,0.0,0
+2020-06-06,Diamond Princess cruise ship,Canada,1.0,1.0,0.0,0
+2020-06-07,Diamond Princess cruise ship,Canada,1.0,1.0,0.0,0
+2020-06-08,Diamond Princess cruise ship,Canada,1.0,1.0,0.0,0
+2020-06-09,Diamond Princess cruise ship,Canada,1.0,1.0,0.0,0
+2020-06-10,Diamond Princess cruise ship,Canada,1.0,1.0,0.0,0
+2020-05-14,Recovered,Canada,0.0,0.0,35731.0,0
+2020-05-15,Recovered,Canada,0.0,0.0,36446.0,0
+2020-05-16,Recovered,Canada,0.0,0.0,37643.0,0
+2020-05-17,Recovered,Canada,0.0,0.0,38596.0,0
+2020-05-18,Recovered,Canada,0.0,0.0,39371.0,0
+2020-05-19,Recovered,Canada,0.0,0.0,40529.0,0
+2020-05-20,Recovered,Canada,0.0,0.0,41560.0,0
+2020-06-04,Yukon,Canada,11.0,0.0,9.0,0
+2020-06-05,Yukon,Canada,11.0,0.0,9.0,0
+2020-06-06,Yukon,Canada,11.0,0.0,9.0,0
+2020-06-07,Yukon,Canada,11.0,0.0,9.0,0
+2020-06-08,Yukon,Canada,11.0,0.0,9.0,0
+2020-06-09,Yukon,Canada,11.0,0.0,8.0,0
+2020-06-10,Yukon,Canada,11.0,0.0,8.0,0
+2020-06-08,Antofagasta,Chile,5493.0,447.0,0.0,0
+2020-06-04,Araucania,Chile,8420.0,765.0,0.0,0
+2020-06-05,Araucania,Chile,16425.0,1823.0,0.0,0
+2020-06-06,Araucania,Chile,16937.0,1449.0,0.0,0
+2020-06-07,Araucania,Chile,42210.0,220.0,0.0,0
+2020-06-04,Atacama,Chile,2331.0,0.0,0.0,0
+2020-06-05,Atacama,Chile,2925.0,0.0,0.0,0
+2020-06-08,Atacama,Chile,2325.0,0.0,0.0,0
+2020-06-09,Atacama,Chile,5213.0,0.0,0.0,0
+2020-06-10,Atacama,Chile,778.0,0.0,0.0,0
+2020-06-08,Aysen,Chile,122.0,0.0,0.0,0
+2020-06-09,Aysen,Chile,210.0,0.0,0.0,0
+2020-06-10,Aysen,Chile,122.0,0.0,0.0,0
+2020-06-07,Biobio,Chile,30143.0,86.0,0.0,0
+2020-06-08,Biobio,Chile,23862.0,21.0,0.0,0
+2020-06-10,Biobio,Chile,14180.0,60.0,0.0,0
+2020-06-04,Coquimbo,Chile,2958.0,7.0,0.0,0
+2020-06-05,Coquimbo,Chile,5189.0,11.0,0.0,0
+2020-06-06,Coquimbo,Chile,1778.0,6.0,0.0,0
+2020-06-08,Coquimbo,Chile,2133.0,0.0,0.0,0
+2020-06-04,Los Lagos,Chile,6397.0,96.0,0.0,0
+2020-06-05,Los Lagos,Chile,18150.0,307.0,0.0,0
+2020-06-06,Los Lagos,Chile,19221.0,365.0,0.0,0
+2020-06-05,Los Rios,Chile,1182.0,70.0,0.0,0
+2020-06-10,Los Rios,Chile,5211.0,133.0,0.0,0
+2020-06-10,Magallanes,Chile,23082.0,121.0,0.0,0
+2020-06-04,Maule,Chile,7305.0,11.0,0.0,0
+2020-06-09,Metropolitana,Chile,1008496.0,5936.0,0.0,0
+2020-06-10,Metropolitana,Chile,346363.0,21358.0,0.0,0
+2020-06-08,Nuble,Chile,13481.0,81.0,0.0,0
+2020-06-10,OHiggins,Chile,25063.0,12.0,0.0,0
+2020-06-07,Tarapaca,Chile,71775.0,349.0,0.0,0
+2020-06-08,Tarapaca,Chile,34776.0,487.0,0.0,0
+2020-06-09,Tarapaca,Chile,21855.0,74.0,0.0,0
+2020-06-10,Tarapaca,Chile,25294.0,25.0,0.0,0
+2020-06-06,Unknown,Chile,0.0,1589.0,152799.0,0
+2020-06-07,Unknown,Chile,0.0,10538.0,101034.0,0
+2020-06-08,Unknown,Chile,0.0,9586.0,11808.0,0
+2020-06-07,Valparaiso,Chile,12302.0,421.0,0.0,0
+2020-06-05,Arauca,Colombia,1.0,0.0,16.0,0
+2020-06-08,Arauca,Colombia,1.0,0.0,4.0,0
+2020-06-09,Arauca,Colombia,1.0,0.0,21.0,0
+2020-06-10,Arauca,Colombia,1.0,0.0,17.0,0
+2020-06-07,Bolivar,Colombia,14131.0,2495.0,5740.0,0
+2020-06-09,Bolivar,Colombia,13048.0,1471.0,3411.0,0
+2020-06-04,Boyaca,Colombia,2252.0,100.0,239.0,0
+2020-06-04,Caldas,Colombia,2229.0,6.0,670.0,0
+2020-06-05,Caldas,Colombia,2184.0,6.0,1395.0,0
+2020-06-07,Caldas,Colombia,4289.0,6.0,1715.0,0
+2020-06-07,Capital District,Colombia,944.0,1448.0,98346.0,0
+2020-06-07,Caqueta,Colombia,24.0,12.0,507.0,0
+2020-06-08,Caqueta,Colombia,24.0,13.0,504.0,0
+2020-06-09,Caqueta,Colombia,24.0,32.0,304.0,0
+2020-06-10,Caqueta,Colombia,24.0,6.0,115.0,0
+2020-06-05,Casanare,Colombia,719.0,0.0,374.0,0
+2020-06-08,Casanare,Colombia,611.0,0.0,53.0,0
+2020-06-09,Casanare,Colombia,1105.0,0.0,112.0,0
+2020-06-04,Cauca,Colombia,732.0,4.0,292.0,0
+2020-06-06,Cesar,Colombia,1234.0,12.0,447.0,0
+2020-06-07,Cesar,Colombia,212.0,12.0,66.0,0
+2020-06-05,Choco,Colombia,1661.0,27.0,801.0,0
+2020-06-09,Choco,Colombia,1678.0,72.0,195.0,0
+2020-06-10,Choco,Colombia,1995.0,185.0,828.0,0
+2020-06-06,Cordoba,Colombia,1689.0,89.0,164.0,0
+2020-06-05,Huila,Colombia,8308.0,13.0,1112.0,0
+2020-06-09,Huila,Colombia,1752.0,13.0,707.0,0
+2020-06-06,La Guajira,Colombia,780.0,4.0,443.0,0
+2020-06-07,La Guajira,Colombia,855.0,4.0,299.0,0
+2020-06-08,La Guajira,Colombia,711.0,4.0,74.0,0
+2020-06-05,Magdalena,Colombia,613.0,2474.0,2189.0,0
+2020-06-08,Meta,Colombia,16743.0,135.0,15055.0,0
+2020-06-09,Meta,Colombia,5990.0,300.0,8159.0,0
+2020-06-08,Norte de Santander,Colombia,1357.0,209.0,818.0,0
+2020-06-05,Risaralda,Colombia,1512.0,30.0,5184.0,0
+2020-06-04,San Andres y Providencia,Colombia,17.0,0.0,118.0,0
+2020-06-05,San Andres y Providencia,Colombia,17.0,0.0,331.0,0
+2020-06-06,San Andres y Providencia,Colombia,17.0,0.0,318.0,0
+2020-06-07,San Andres y Providencia,Colombia,17.0,0.0,334.0,0
+2020-06-08,San Andres y Providencia,Colombia,17.0,0.0,328.0,0
+2020-06-09,San Andres y Providencia,Colombia,17.0,0.0,87.0,0
+2020-06-10,San Andres y Providencia,Colombia,17.0,0.0,44.0,0
+2020-06-05,Sucre,Colombia,83.0,0.0,18.0,0
+2020-06-06,Sucre,Colombia,174.0,0.0,30.0,0
+2020-06-08,Sucre,Colombia,221.0,0.0,65.0,0
+2020-06-09,Sucre,Colombia,713.0,0.0,188.0,0
+2020-06-10,Sucre,Colombia,107.0,0.0,29.0,0
+2020-06-04,Vaupes,Colombia,11.0,0.0,0.0,0
+2020-06-05,Vaupes,Colombia,11.0,0.0,0.0,0
+2020-06-06,Vaupes,Colombia,11.0,0.0,0.0,0
+2020-06-07,Vaupes,Colombia,11.0,0.0,0.0,0
+2020-06-08,Vaupes,Colombia,11.0,0.0,0.0,0
+2020-06-09,Vaupes,Colombia,11.0,0.0,0.0,0
+2020-06-10,Vaupes,Colombia,11.0,0.0,0.0,0
+2020-06-04,Guainia,Colombia,6.0,0.0,0.0,0
+2020-06-05,Guainia,Colombia,6.0,0.0,0.0,0
+2020-06-06,Guainia,Colombia,6.0,0.0,0.0,0
+2020-06-07,Guainia,Colombia,6.0,0.0,0.0,0
+2020-06-08,Guainia,Colombia,6.0,0.0,0.0,0
+2020-06-09,Guainia,Colombia,6.0,0.0,0.0,0
+2020-06-10,Guainia,Colombia,6.0,0.0,0.0,0
+2020-06-04,Vichada,Colombia,1.0,0.0,0.0,0
+2020-06-05,Vichada,Colombia,1.0,0.0,0.0,0
+2020-06-06,Vichada,Colombia,1.0,0.0,0.0,0
+2020-06-07,Vichada,Colombia,1.0,0.0,0.0,0
+2020-06-08,Vichada,Colombia,1.0,0.0,0.0,0
+2020-06-09,Vichada,Colombia,1.0,0.0,0.0,0
+2020-06-10,Vichada,Colombia,1.0,0.0,0.0,0
+2020-06-07,Unknown,Colombia,19063.0,0.0,0.0,0
+2020-06-09,Unknown,Colombia,1057.0,0.0,0.0,0
+2020-03-28,Denmark,Denmark,14964.0,55.0,1.0,0
+2020-06-04,Faroe Islands,Denmark,190.0,0.0,190.0,0
+2020-06-05,Faroe Islands,Denmark,186.0,0.0,189.0,0
+2020-06-06,Faroe Islands,Denmark,186.0,0.0,188.0,0
+2020-06-07,Faroe Islands,Denmark,187.0,0.0,194.0,0
+2020-06-08,Faroe Islands,Denmark,184.0,0.0,197.0,0
+2020-06-09,Faroe Islands,Denmark,185.0,0.0,198.0,0
+2020-06-10,Faroe Islands,Denmark,190.0,0.0,201.0,0
+2020-06-04,Greenland,Denmark,12.0,0.0,10.0,0
+2020-06-05,Greenland,Denmark,12.0,0.0,10.0,0
+2020-06-06,Greenland,Denmark,12.0,0.0,10.0,0
+2020-06-07,Greenland,Denmark,12.0,0.0,13.0,0
+2020-06-08,Greenland,Denmark,12.0,0.0,13.0,0
+2020-06-09,Greenland,Denmark,12.0,0.0,14.0,0
+2020-06-10,Greenland,Denmark,12.0,0.0,14.0,0
+2020-03-23,France,France,187658.0,4698.0,12.0,0
+2020-03-27,France,France,689707.0,6871.0,12.0,0
+2020-03-28,France,France,450878.0,6276.0,12.0,0
+2020-06-04,Saint Barthelemy,France,6.0,0.0,6.0,0
+2020-06-05,Saint Barthelemy,France,6.0,0.0,6.0,0
+2020-06-06,Saint Barthelemy,France,6.0,0.0,6.0,0
+2020-06-07,Saint Barthelemy,France,6.0,0.0,6.0,0
+2020-06-08,Saint Barthelemy,France,6.0,0.0,6.0,0
+2020-06-09,Saint Barthelemy,France,6.0,0.0,6.0,0
+2020-06-10,Saint Barthelemy,France,6.0,0.0,6.0,0
+2020-06-04,St Martin,France,43.0,4.0,34.0,0
+2020-06-05,St Martin,France,45.0,4.0,35.0,0
+2020-06-06,St Martin,France,45.0,4.0,36.0,0
+2020-06-07,St Martin,France,44.0,4.0,36.0,0
+2020-06-08,St Martin,France,44.0,4.0,35.0,0
+2020-06-09,St Martin,France,44.0,4.0,35.0,0
+2020-06-10,St Martin,France,44.0,4.0,35.0,0
+2020-06-08,French Polynesia,France,1366.0,56.0,219.0,0
+2020-06-04,French Guiana,France,565.0,1.0,198.0,0
+2020-06-05,French Guiana,France,588.0,1.0,197.0,0
+2020-06-06,French Guiana,France,608.0,1.0,210.0,0
+2020-06-07,French Guiana,France,632.0,1.0,215.0,0
+2020-06-08,French Guiana,France,653.0,1.0,215.0,0
+2020-06-09,French Guiana,France,673.0,1.0,223.0,0
+2020-06-10,French Guiana,France,691.0,1.0,231.0,0
+2020-06-04,Mayotte,France,2024.0,26.0,1607.0,0
+2020-06-05,Mayotte,France,2054.0,27.0,1647.0,0
+2020-06-06,Mayotte,France,2104.0,27.0,1667.0,0
+2020-06-07,Mayotte,France,2164.0,28.0,1688.0,0
+2020-06-08,Mayotte,France,2237.0,28.0,1755.0,0
+2020-06-09,Mayotte,France,2305.0,29.0,1828.0,0
+2020-06-10,Mayotte,France,2328.0,29.0,1944.0,0
+2020-06-04,Guadeloupe,France,160.0,15.0,132.0,0
+2020-06-05,Guadeloupe,France,156.0,15.0,138.0,0
+2020-06-06,Guadeloupe,France,158.0,15.0,142.0,0
+2020-06-07,Guadeloupe,France,167.0,15.0,140.0,0
+2020-06-08,Guadeloupe,France,167.0,16.0,140.0,0
+2020-06-09,Guadeloupe,France,166.0,16.0,144.0,0
+2020-06-10,Guadeloupe,France,166.0,16.0,150.0,0
+2020-06-04,Reunion,France,479.0,1.0,417.0,0
+2020-06-05,Reunion,France,470.0,1.0,410.0,0
+2020-06-06,Reunion,France,467.0,1.0,411.0,0
+2020-06-07,Reunion,France,466.0,1.0,418.0,0
+2020-06-08,Reunion,France,466.0,0.0,413.0,0
+2020-06-09,Reunion,France,477.0,1.0,405.0,0
+2020-06-10,Reunion,France,485.0,1.0,424.0,0
+2020-06-04,New Caledonia,France,19.0,0.0,24.0,0
+2020-06-05,New Caledonia,France,19.0,0.0,26.0,0
+2020-06-06,New Caledonia,France,18.0,0.0,25.0,0
+2020-06-07,New Caledonia,France,18.0,0.0,25.0,0
+2020-06-08,New Caledonia,France,18.0,0.0,24.0,0
+2020-06-09,New Caledonia,France,19.0,0.0,24.0,0
+2020-06-10,New Caledonia,France,19.0,0.0,24.0,0
+2020-06-04,Martinique,France,200.0,13.0,101.0,0
+2020-06-05,Martinique,France,202.0,13.0,106.0,0
+2020-06-06,Martinique,France,203.0,13.0,106.0,0
+2020-06-07,Martinique,France,203.0,13.0,105.0,0
+2020-06-08,Martinique,France,201.0,14.0,103.0,0
+2020-06-09,Martinique,France,204.0,14.0,105.0,0
+2020-06-10,Martinique,France,203.0,14.0,106.0,0
+2020-06-04,Saint Pierre and Miquelon,France,1.0,0.0,1.0,0
+2020-06-05,Saint Pierre and Miquelon,France,1.0,0.0,1.0,0
+2020-06-06,Saint Pierre and Miquelon,France,1.0,0.0,1.0,0
+2020-06-07,Saint Pierre and Miquelon,France,1.0,0.0,1.0,0
+2020-06-08,Saint Pierre and Miquelon,France,1.0,0.0,1.0,0
+2020-06-09,Saint Pierre and Miquelon,France,1.0,0.0,1.0,0
+2020-06-10,Saint Pierre and Miquelon,France,1.0,0.0,1.0,0
+2020-02-02,Bavaria,Germany,4.0,0.0,0.0,0
+2020-02-05,Bavaria,Germany,49.0,0.0,0.0,0
+2020-02-06,Bavaria,Germany,20.0,0.0,0.0,0
+2020-06-04,Baden-Wurttemberg,Germany,129842.0,1839.0,172489.0,0
+2020-06-05,Baden-Wurttemberg,Germany,456877.0,3556.0,577569.0,0
+2020-06-06,Baden-Wurttemberg,Germany,777963.0,9028.0,685215.0,0
+2020-06-04,Bayern,Germany,38934.0,2066.0,161272.0,0
+2020-06-07,Brandenburg,Germany,36403.0,1824.0,11986.0,0
+2020-06-08,Brandenburg,Germany,24774.0,3216.0,44107.0,0
+2020-06-04,Bremen,Germany,7256.0,4.0,2552.0,0
+2020-06-04,Hamburg,Germany,7852.0,292.0,5233.0,0
+2020-06-05,Hamburg,Germany,6695.0,480.0,12304.0,0
+2020-06-04,Mecklenburg-Vorpommern,Germany,351.0,20.0,730.0,0
+2020-06-10,Mecklenburg-Vorpommern,Germany,35531.0,20.0,409.0,0
+2020-06-10,Rheinland-Pfalz,Germany,19228.0,1192.0,83918.0,0
+2020-06-04,Saarland,Germany,2587.0,531.0,4924.0,0
+2020-06-05,Saarland,Germany,1870.0,1904.0,13452.0,0
+2020-06-06,Saarland,Germany,467.0,4356.0,21989.0,0
+2020-06-04,Sachsen,Germany,8703.0,195.0,805.0,0
+2020-06-04,Sachsen-Anhalt,Germany,2246.0,58.0,3510.0,0
+2020-06-05,Sachsen-Anhalt,Germany,7414.0,143.0,6229.0,0
+2020-06-06,Sachsen-Anhalt,Germany,25885.0,508.0,833.0,0
+2020-06-04,Thuringen,Germany,1525.0,234.0,3628.0,0
+2020-06-05,Thuringen,Germany,193.0,574.0,4086.0,0
+2020-06-04,Hong Kong,Hong Kong,1283.0,4.0,1048.0,0
+2020-06-05,Hong Kong,Hong Kong,1299.0,4.0,1055.0,0
+2020-06-06,Hong Kong,Hong Kong,1289.0,4.0,1055.0,0
+2020-06-07,Hong Kong,Hong Kong,1295.0,4.0,1060.0,0
+2020-06-08,Hong Kong,Hong Kong,1298.0,4.0,1068.0,0
+2020-06-09,Hong Kong,Hong Kong,1293.0,4.0,1077.0,0
+2020-06-10,Hong Kong,Hong Kong,1307.0,4.0,1082.0,0
+2020-06-07,Abruzzo,Italy,13200.0,3349.0,7833.0,0
+2020-06-10,Abruzzo,Italy,14997.0,3523.0,4354.0,0
+2020-06-04,Basilicata,Italy,471.0,27.0,1928.0,0
+2020-06-05,Basilicata,Italy,501.0,27.0,7056.0,0
+2020-06-10,Basilicata,Italy,1309.0,27.0,4702.0,0
+2020-06-04,Friuli Venezia Giulia,Italy,1925.0,259.0,5532.0,0
+2020-06-04,Lazio,Italy,4864.0,169.0,995.0,0
+2020-06-09,Lazio,Italy,296431.0,382.0,278714.0,0
+2020-06-04,Molise,Italy,144.0,22.0,2294.0,0
+2020-06-04,P.A. Bolzano,Italy,556.0,418.0,4713.0,0
+2020-06-09,P.A. Bolzano,Italy,56229.0,4694.0,3388.0,0
+2020-06-06,P.A. Trento,Italy,10218.0,2544.0,12968.0,0
+2020-06-07,P.A. Trento,Italy,5045.0,517.0,63465.0,0
+2020-06-04,Piemonte,Italy,114453.0,3010.0,19687.0,0
+2020-06-05,Piemonte,Italy,402028.0,1420.0,14375.0,0
+2020-06-06,Piemonte,Italy,630390.0,997.0,13472.0,0
+2020-06-10,Piemonte,Italy,303856.0,24289.0,59533.0,0
+2020-06-09,Puglia,Italy,79357.0,10884.0,21813.0,0
+2020-06-09,Sardegna,Italy,3015.0,1553.0,14959.0,0
+2020-06-07,Sicilia,Italy,8534.0,520.0,17798.0,0
+2020-06-04,Toscana,Italy,28062.0,2222.0,10380.0,0
+2020-06-05,Toscana,Italy,110031.0,6524.0,17501.0,0
+2020-06-06,Toscana,Italy,227573.0,9729.0,20016.0,0
+2020-06-07,Toscana,Italy,218501.0,2787.0,1715.0,0
+2020-06-07,Umbria,Italy,642.0,616.0,23868.0,0
+2020-06-04,Valle d'Aosta,Italy,156.0,284.0,1692.0,0
+2020-06-08,Valle d'Aosta,Italy,1754.0,630.0,7814.0,0
+2020-06-09,Valle d'Aosta,Italy,8976.0,1054.0,3251.0,0
+2020-06-04,Veneto,Italy,48266.0,881.0,17921.0,0
+2020-06-06,Veneto,Italy,403721.0,103.0,59021.0,0
+2020-06-07,Veneto,Italy,463939.0,9672.0,181420.0,0
+2020-06-08,Veneto,Italy,172464.0,15909.0,338272.0,0
+2020-06-06,Aichi,Japan,1234.0,34.0,12281.0,0
+2020-06-07,Aichi,Japan,4611.0,34.0,10536.0,0
+2020-06-09,Aichi,Japan,5746.0,34.0,4688.0,0
+2020-06-04,Akita,Japan,16.0,0.0,16.0,0
+2020-06-05,Akita,Japan,16.0,0.0,16.0,0
+2020-06-06,Akita,Japan,16.0,0.0,16.0,0
+2020-06-07,Akita,Japan,16.0,0.0,16.0,0
+2020-06-08,Akita,Japan,16.0,0.0,16.0,0
+2020-06-09,Akita,Japan,16.0,0.0,16.0,0
+2020-06-10,Akita,Japan,16.0,0.0,16.0,0
+2020-06-08,Aomori,Japan,27.0,1.0,202.0,0
+2020-06-09,Aomori,Japan,27.0,1.0,599.0,0
+2020-06-10,Aomori,Japan,27.0,1.0,510.0,0
+2020-06-06,Chiba,Japan,577.0,45.0,731.0,0
+2020-06-09,Chiba,Japan,6362.0,45.0,6288.0,0
+2020-06-10,Chiba,Japan,4260.0,45.0,5642.0,0
+2020-06-04,Ehime,Japan,78.0,4.0,729.0,0
+2020-06-04,Fukui,Japan,122.0,8.0,394.0,0
+2020-06-06,Fukui,Japan,122.0,8.0,238.0,0
+2020-06-07,Fukui,Japan,122.0,8.0,3100.0,0
+2020-06-08,Fukui,Japan,122.0,8.0,761.0,0
+2020-06-10,Fukui,Japan,122.0,8.0,1648.0,0
+2020-06-04,Fukushima,Japan,81.0,0.0,1498.0,0
+2020-06-05,Fukushima,Japan,81.0,0.0,554.0,0
+2020-06-06,Fukushima,Japan,81.0,0.0,1658.0,0
+2020-06-07,Fukushima,Japan,81.0,0.0,2774.0,0
+2020-06-08,Fukushima,Japan,81.0,0.0,1003.0,0
+2020-06-10,Fukushima,Japan,81.0,0.0,790.0,0
+2020-06-04,Gifu,Japan,258.0,7.0,141.0,0
+2020-06-05,Gifu,Japan,1404.0,7.0,141.0,0
+2020-06-08,Gifu,Japan,260.0,7.0,141.0,0
+2020-06-09,Gifu,Japan,811.0,7.0,141.0,0
+2020-06-10,Gifu,Japan,2583.0,7.0,141.0,0
+2020-06-05,Gunma,Japan,149.0,19.0,1179.0,0
+2020-06-06,Gunma,Japan,149.0,19.0,432.0,0
+2020-06-08,Gunma,Japan,149.0,19.0,175.0,0
+2020-06-09,Gunma,Japan,149.0,19.0,357.0,0
+2020-06-10,Gunma,Japan,149.0,19.0,11.0,0
+2020-06-04,Hiroshima,Japan,164.0,3.0,2119.0,0
+2020-06-07,Hiroshima,Japan,164.0,3.0,1170.0,0
+2020-06-10,Hiroshima,Japan,164.0,3.0,2066.0,0
+2020-06-06,Hyogo,Japan,699.0,127.0,8261.0,0
+2020-06-07,Hyogo,Japan,699.0,40.0,4454.0,0
+2020-06-06,Ibaraki,Japan,168.0,278.0,585.0,0
+2020-06-08,Ibaraki,Japan,168.0,187.0,223.0,0
+2020-06-09,Ibaraki,Japan,168.0,135.0,718.0,0
+2020-06-04,Kagawa,Japan,28.0,0.0,28.0,0
+2020-06-05,Kagawa,Japan,28.0,0.0,28.0,0
+2020-06-06,Kagawa,Japan,28.0,0.0,28.0,0
+2020-06-07,Kagawa,Japan,28.0,0.0,28.0,0
+2020-06-08,Kagawa,Japan,28.0,0.0,28.0,0
+2020-06-09,Kagawa,Japan,28.0,0.0,28.0,0
+2020-06-10,Kagawa,Japan,28.0,0.0,28.0,0
+2020-06-04,Kagoshima,Japan,10.0,0.0,10.0,0
+2020-06-05,Kagoshima,Japan,10.0,0.0,10.0,0
+2020-06-06,Kagoshima,Japan,10.0,0.0,10.0,0
+2020-06-07,Kagoshima,Japan,10.0,0.0,10.0,0
+2020-06-08,Kagoshima,Japan,10.0,0.0,10.0,0
+2020-06-09,Kagoshima,Japan,10.0,0.0,10.0,0
+2020-06-10,Kagoshima,Japan,10.0,0.0,10.0,0
+2020-06-06,Kochi,Japan,74.0,3.0,1093.0,0
+2020-06-09,Kumamoto,Japan,47.0,3.0,684.0,0
+2020-06-10,Kumamoto,Japan,47.0,3.0,229.0,0
+2020-06-05,Kyoto,Japan,358.0,76.0,8494.0,0
+2020-06-05,Mie,Japan,45.0,1.0,35.0,0
+2020-06-06,Mie,Japan,45.0,1.0,177.0,0
+2020-06-07,Mie,Japan,45.0,1.0,535.0,0
+2020-06-08,Mie,Japan,45.0,1.0,780.0,0
+2020-06-09,Mie,Japan,45.0,1.0,423.0,0
+2020-06-10,Mie,Japan,45.0,1.0,73.0,0
+2020-06-04,Miyagi,Japan,88.0,1.0,87.0,0
+2020-06-05,Miyagi,Japan,88.0,1.0,87.0,0
+2020-06-06,Miyagi,Japan,88.0,1.0,87.0,0
+2020-06-07,Miyagi,Japan,88.0,1.0,87.0,0
+2020-06-08,Miyagi,Japan,88.0,1.0,87.0,0
+2020-06-09,Miyagi,Japan,88.0,1.0,87.0,0
+2020-06-10,Miyagi,Japan,88.0,1.0,87.0,0
+2020-06-04,Miyazaki,Japan,17.0,0.0,17.0,0
+2020-06-05,Miyazaki,Japan,17.0,0.0,17.0,0
+2020-06-06,Miyazaki,Japan,17.0,0.0,17.0,0
+2020-06-07,Miyazaki,Japan,17.0,0.0,17.0,0
+2020-06-08,Miyazaki,Japan,17.0,0.0,17.0,0
+2020-06-09,Miyazaki,Japan,17.0,0.0,17.0,0
+2020-06-10,Miyazaki,Japan,17.0,0.0,17.0,0
+2020-06-04,Nagasaki,Japan,17.0,1.0,16.0,0
+2020-06-05,Nagasaki,Japan,17.0,1.0,16.0,0
+2020-06-06,Nagasaki,Japan,17.0,1.0,16.0,0
+2020-06-07,Nagasaki,Japan,17.0,1.0,16.0,0
+2020-06-08,Nagasaki,Japan,17.0,1.0,16.0,0
+2020-06-09,Nagasaki,Japan,17.0,1.0,16.0,0
+2020-06-10,Nagasaki,Japan,17.0,1.0,16.0,0
+2020-06-04,Nara,Japan,92.0,2.0,1219.0,0
+2020-06-05,Nara,Japan,92.0,2.0,1585.0,0
+2020-06-06,Nara,Japan,92.0,2.0,420.0,0
+2020-06-09,Nara,Japan,92.0,2.0,348.0,0
+2020-06-10,Nara,Japan,92.0,2.0,1272.0,0
+2020-06-04,Niigata,Japan,82.0,0.0,291.0,0
+2020-06-05,Niigata,Japan,82.0,0.0,2829.0,0
+2020-06-06,Niigata,Japan,82.0,0.0,3938.0,0
+2020-06-07,Niigata,Japan,82.0,0.0,685.0,0
+2020-06-09,Niigata,Japan,82.0,0.0,406.0,0
+2020-06-04,Oita,Japan,60.0,1.0,58.0,0
+2020-06-05,Oita,Japan,60.0,1.0,58.0,0
+2020-06-06,Oita,Japan,60.0,1.0,58.0,0
+2020-06-07,Oita,Japan,60.0,1.0,58.0,0
+2020-06-08,Oita,Japan,60.0,1.0,58.0,0
+2020-06-09,Oita,Japan,60.0,1.0,58.0,0
+2020-06-10,Oita,Japan,60.0,1.0,58.0,0
+2020-06-04,Okayama,Japan,25.0,0.0,25.0,0
+2020-06-05,Okayama,Japan,25.0,0.0,25.0,0
+2020-06-06,Okayama,Japan,25.0,0.0,25.0,0
+2020-06-07,Okayama,Japan,25.0,0.0,25.0,0
+2020-06-08,Okayama,Japan,25.0,0.0,25.0,0
+2020-06-09,Okayama,Japan,25.0,0.0,25.0,0
+2020-06-10,Okayama,Japan,25.0,0.0,25.0,0
+2020-06-05,Okinawa,Japan,145.0,6.0,2524.0,0
+2020-06-06,Okinawa,Japan,145.0,6.0,2199.0,0
+2020-06-07,Okinawa,Japan,145.0,6.0,416.0,0
+2020-06-08,Okinawa,Japan,145.0,6.0,194.0,0
+2020-06-05,Osaka,Japan,54983.0,855.0,2721.0,0
+2020-06-06,Osaka,Japan,75169.0,559.0,6686.0,0
+2020-06-10,Port Quarantine,Japan,3894.0,0.0,988.0,0
+2020-06-05,Saga,Japan,45.0,0.0,766.0,0
+2020-06-08,Saga,Japan,45.0,0.0,26.0,0
+2020-06-09,Saga,Japan,45.0,0.0,176.0,0
+2020-06-10,Saga,Japan,45.0,0.0,455.0,0
+2020-06-07,Saitama,Japan,1588.0,920.0,3213.0,0
+2020-06-05,Shiga,Japan,100.0,1.0,324.0,0
+2020-06-06,Shiga,Japan,100.0,1.0,818.0,0
+2020-06-07,Shiga,Japan,100.0,1.0,1543.0,0
+2020-06-08,Shiga,Japan,100.0,1.0,624.0,0
+2020-06-10,Shiga,Japan,100.0,1.0,1532.0,0
+2020-06-05,Shimane,Japan,24.0,0.0,155.0,0
+2020-06-08,Shizuoka,Japan,862.0,1.0,686.0,0
+2020-06-08,Tochigi,Japan,608.0,0.0,623.0,0
+2020-06-04,Tokushima,Japan,5.0,1.0,4.0,0
+2020-06-05,Tokushima,Japan,5.0,1.0,4.0,0
+2020-06-06,Tokushima,Japan,5.0,1.0,4.0,0
+2020-06-07,Tokushima,Japan,5.0,1.0,4.0,0
+2020-06-08,Tokushima,Japan,5.0,1.0,4.0,0
+2020-06-09,Tokushima,Japan,5.0,1.0,4.0,0
+2020-06-10,Tokushima,Japan,5.0,1.0,4.0,0
+2020-06-05,Tokyo,Japan,93572.0,1114.0,160335.0,0
+2020-06-06,Tokyo,Japan,118681.0,82.0,49907.0,0
+2020-06-09,Tokyo,Japan,41681.0,86.0,429567.0,0
+2020-06-04,Tottori,Japan,3.0,0.0,3.0,0
+2020-06-05,Tottori,Japan,3.0,0.0,3.0,0
+2020-06-06,Tottori,Japan,3.0,0.0,3.0,0
+2020-06-07,Tottori,Japan,3.0,0.0,3.0,0
+2020-06-08,Tottori,Japan,3.0,0.0,3.0,0
+2020-06-09,Tottori,Japan,3.0,0.0,3.0,0
+2020-06-10,Tottori,Japan,3.0,0.0,3.0,0
+2020-06-05,Toyama,Japan,227.0,22.0,889.0,0
+2020-06-06,Toyama,Japan,227.0,22.0,1497.0,0
+2020-06-08,Toyama,Japan,227.0,22.0,4476.0,0
+2020-06-09,Toyama,Japan,227.0,22.0,6933.0,0
+2020-06-04,Unknown,Japan,8.0,0.0,0.0,0
+2020-06-05,Unknown,Japan,8.0,0.0,0.0,0
+2020-06-06,Unknown,Japan,8.0,0.0,0.0,0
+2020-06-07,Unknown,Japan,8.0,0.0,0.0,0
+2020-06-08,Unknown,Japan,8.0,0.0,0.0,0
+2020-06-09,Unknown,Japan,8.0,0.0,0.0,0
+2020-06-10,Unknown,Japan,8.0,0.0,0.0,0
+2020-06-04,Wakayama,Japan,63.0,3.0,523.0,0
+2020-06-05,Wakayama,Japan,63.0,3.0,1364.0,0
+2020-06-06,Wakayama,Japan,63.0,3.0,727.0,0
+2020-06-07,Wakayama,Japan,63.0,3.0,664.0,0
+2020-06-08,Wakayama,Japan,63.0,3.0,1131.0,0
+2020-06-09,Wakayama,Japan,63.0,3.0,437.0,0
+2020-06-10,Wakayama,Japan,63.0,3.0,141.0,0
+2020-06-04,Yamagata,Japan,69.0,0.0,66.0,0
+2020-06-05,Yamagata,Japan,69.0,0.0,66.0,0
+2020-06-06,Yamagata,Japan,69.0,0.0,66.0,0
+2020-06-07,Yamagata,Japan,69.0,0.0,66.0,0
+2020-06-08,Yamagata,Japan,69.0,0.0,66.0,0
+2020-06-09,Yamagata,Japan,69.0,0.0,66.0,0
+2020-06-10,Yamagata,Japan,69.0,0.0,66.0,0
+2020-06-04,Yamaguchi,Japan,37.0,0.0,10.0,0
+2020-06-05,Yamaguchi,Japan,37.0,0.0,959.0,0
+2020-06-06,Yamaguchi,Japan,37.0,0.0,824.0,0
+2020-06-04,Yamanashi,Japan,1747.0,1.0,58.0,0
+2020-06-07,Yamanashi,Japan,994.0,1.0,487.0,0
+2020-06-08,Yamanashi,Japan,1134.0,1.0,598.0,0
+2020-06-04,Macau,Macau,53.0,0.0,53.0,0
+2020-06-05,Macau,Macau,53.0,0.0,54.0,0
+2020-06-06,Macau,Macau,53.0,0.0,54.0,0
+2020-06-07,Macau,Macau,52.0,0.0,55.0,0
+2020-06-08,Macau,Macau,52.0,0.0,55.0,0
+2020-06-09,Macau,Macau,52.0,0.0,56.0,0
+2020-06-10,Macau,Macau,52.0,0.0,56.0,0
+2020-06-04,Anhui,Mainland China,984.0,6.0,995.0,0
+2020-06-05,Anhui,Mainland China,988.0,6.0,986.0,0
+2020-06-06,Anhui,Mainland China,988.0,6.0,971.0,0
+2020-06-07,Anhui,Mainland China,991.0,6.0,961.0,0
+2020-06-08,Anhui,Mainland China,999.0,6.0,953.0,0
+2020-06-09,Anhui,Mainland China,1005.0,5.0,946.0,0
+2020-06-10,Anhui,Mainland China,1011.0,6.0,950.0,0
+2020-06-04,Beijing,Mainland China,594.0,9.0,584.0,0
+2020-06-05,Beijing,Mainland China,594.0,9.0,584.0,0
+2020-06-06,Beijing,Mainland China,595.0,9.0,583.0,0
+2020-06-07,Beijing,Mainland China,596.0,9.0,583.0,0
+2020-06-08,Beijing,Mainland China,597.0,9.0,585.0,0
+2020-06-09,Beijing,Mainland China,595.0,9.0,588.0,0
+2020-06-10,Beijing,Mainland China,597.0,9.0,590.0,0
+2020-06-04,Chongqing,Mainland China,586.0,6.0,575.0,0
+2020-06-05,Chongqing,Mainland China,584.0,6.0,573.0,0
+2020-06-06,Chongqing,Mainland China,583.0,6.0,573.0,0
+2020-06-07,Chongqing,Mainland China,585.0,6.0,571.0,0
+2020-06-08,Chongqing,Mainland China,581.0,6.0,572.0,0
+2020-06-09,Chongqing,Mainland China,578.0,6.0,572.0,0
+2020-06-10,Chongqing,Mainland China,581.0,6.0,572.0,0
+2020-06-04,Fujian,Mainland China,361.0,1.0,365.0,0
+2020-06-05,Fujian,Mainland China,360.0,1.0,365.0,0
+2020-06-06,Fujian,Mainland China,360.0,1.0,365.0,0
+2020-06-07,Fujian,Mainland China,359.0,1.0,364.0,0
+2020-06-08,Fujian,Mainland China,359.0,1.0,362.0,0
+2020-06-09,Fujian,Mainland China,358.0,1.0,360.0,0
+2020-06-10,Fujian,Mainland China,359.0,1.0,365.0,0
+2020-06-04,Gansu,Mainland China,138.0,2.0,135.0,0
+2020-06-05,Gansu,Mainland China,142.0,2.0,134.0,0
+2020-06-06,Gansu,Mainland China,145.0,2.0,133.0,0
+2020-06-07,Gansu,Mainland China,145.0,2.0,133.0,0
+2020-06-08,Gansu,Mainland China,145.0,2.0,132.0,0
+2020-06-09,Gansu,Mainland China,146.0,2.0,132.0,0
+2020-06-10,Gansu,Mainland China,146.0,3.0,132.0,0
+2020-06-04,Guangdong,Mainland China,1613.0,8.0,1591.0,0
+2020-06-05,Guangdong,Mainland China,1617.0,8.0,1600.0,0
+2020-06-06,Guangdong,Mainland China,1619.0,7.0,1603.0,0
+2020-06-07,Guangdong,Mainland China,1620.0,7.0,1598.0,0
+2020-06-08,Guangdong,Mainland China,1618.0,8.0,1594.0,0
+2020-06-09,Guangdong,Mainland China,1615.0,8.0,1596.0,0
+2020-06-10,Guangdong,Mainland China,1619.0,8.0,1595.0,0
+2020-06-04,Guangxi,Mainland China,255.0,2.0,254.0,0
+2020-06-05,Guangxi,Mainland China,254.0,2.0,253.0,0
+2020-06-06,Guangxi,Mainland China,255.0,2.0,252.0,0
+2020-06-07,Guangxi,Mainland China,256.0,2.0,250.0,0
+2020-06-08,Guangxi,Mainland China,255.0,2.0,251.0,0
+2020-06-09,Guangxi,Mainland China,254.0,2.0,253.0,0
+2020-06-10,Guangxi,Mainland China,255.0,2.0,253.0,0
+2020-06-04,Guizhou,Mainland China,144.0,2.0,142.0,0
+2020-06-05,Guizhou,Mainland China,145.0,2.0,140.0,0
+2020-06-06,Guizhou,Mainland China,145.0,2.0,140.0,0
+2020-06-07,Guizhou,Mainland China,145.0,2.0,138.0,0
+2020-06-08,Guizhou,Mainland China,146.0,2.0,138.0,0
+2020-06-09,Guizhou,Mainland China,147.0,2.0,138.0,0
+2020-06-10,Guizhou,Mainland China,148.0,2.0,139.0,0
+2020-06-04,Hainan,Mainland China,166.0,6.0,162.0,0
+2020-06-05,Hainan,Mainland China,167.0,6.0,160.0,0
+2020-06-06,Hainan,Mainland China,169.0,6.0,158.0,0
+2020-06-07,Hainan,Mainland China,170.0,6.0,157.0,0
+2020-06-08,Hainan,Mainland China,170.0,6.0,156.0,0
+2020-06-09,Hainan,Mainland China,170.0,6.0,156.0,0
+2020-06-10,Hainan,Mainland China,172.0,6.0,157.0,0
+2020-06-04,Hebei,Mainland China,328.0,6.0,322.0,0
+2020-06-05,Hebei,Mainland China,327.0,6.0,318.0,0
+2020-06-06,Hebei,Mainland China,326.0,6.0,314.0,0
+2020-06-07,Hebei,Mainland China,326.0,6.0,313.0,0
+2020-06-08,Hebei,Mainland China,328.0,6.0,312.0,0
+2020-06-09,Hebei,Mainland China,329.0,6.0,311.0,0
+2020-06-10,Hebei,Mainland China,330.0,6.0,313.0,0
+2020-06-04,Heilongjiang,Mainland China,1038.0,12.0,1044.0,0
+2020-06-05,Heilongjiang,Mainland China,1055.0,12.0,1065.0,0
+2020-06-06,Heilongjiang,Mainland China,1066.0,12.0,1072.0,0
+2020-06-07,Heilongjiang,Mainland China,1079.0,12.0,1083.0,0
+2020-06-08,Heilongjiang,Mainland China,1099.0,12.0,1100.0,0
+2020-06-09,Heilongjiang,Mainland China,1116.0,13.0,1114.0,0
+2020-06-10,Heilongjiang,Mainland China,1118.0,13.0,1123.0,0
+2020-06-04,Henan,Mainland China,1273.0,21.0,1244.0,0
+2020-06-05,Henan,Mainland China,1278.0,21.0,1234.0,0
+2020-06-06,Henan,Mainland China,1285.0,21.0,1221.0,0
+2020-06-07,Henan,Mainland China,1291.0,21.0,1211.0,0
+2020-06-08,Henan,Mainland China,1293.0,21.0,1204.0,0
+2020-06-09,Henan,Mainland China,1295.0,21.0,1197.0,0
+2020-06-10,Henan,Mainland China,1302.0,21.0,1207.0,0
+2020-06-04,Hubei,Mainland China,66736.0,4586.0,63701.0,0
+2020-06-05,Hubei,Mainland China,66764.0,4654.0,63748.0,0
+2020-06-06,Hubei,Mainland China,66531.0,4626.0,63764.0,0
+2020-06-07,Hubei,Mainland China,66722.0,4603.0,63696.0,0
+2020-06-08,Hubei,Mainland China,66775.0,4592.0,63702.0,0
+2020-06-09,Hubei,Mainland China,66620.0,4564.0,63657.0,0
+2020-06-10,Hubei,Mainland China,66965.0,4582.0,63635.0,0
+2020-06-04,Hunan,Mainland China,1026.0,4.0,1016.0,0
+2020-06-05,Hunan,Mainland China,1028.0,4.0,1018.0,0
+2020-06-06,Hunan,Mainland China,1028.0,4.0,1019.0,0
+2020-06-07,Hunan,Mainland China,1029.0,4.0,1014.0,0
+2020-06-08,Hunan,Mainland China,1030.0,4.0,1013.0,0
+2020-06-09,Hunan,Mainland China,1028.0,4.0,1018.0,0
+2020-06-10,Hunan,Mainland China,1033.0,4.0,1016.0,0
+2020-06-04,Inner Mongolia,Mainland China,240.0,1.0,233.0,0
+2020-06-05,Inner Mongolia,Mainland China,241.0,1.0,237.0,0
+2020-06-06,Inner Mongolia,Mainland China,243.0,1.0,238.0,0
+2020-06-07,Inner Mongolia,Mainland China,247.0,1.0,239.0,0
+2020-06-08,Inner Mongolia,Mainland China,248.0,1.0,243.0,0
+2020-06-09,Inner Mongolia,Mainland China,248.0,1.0,246.0,0
+2020-06-10,Inner Mongolia,Mainland China,249.0,1.0,248.0,0
+2020-06-04,Jiangsu,Mainland China,656.0,0.0,651.0,0
+2020-06-05,Jiangsu,Mainland China,657.0,0.0,646.0,0
+2020-06-06,Jiangsu,Mainland China,656.0,0.0,643.0,0
+2020-06-07,Jiangsu,Mainland China,657.0,0.0,642.0,0
+2020-06-08,Jiangsu,Mainland China,658.0,0.0,639.0,0
+2020-06-09,Jiangsu,Mainland China,659.0,0.0,637.0,0
+2020-06-10,Jiangsu,Mainland China,662.0,0.0,644.0,0
+2020-06-04,Jiangxi,Mainland China,931.0,1.0,942.0,0
+2020-06-05,Jiangxi,Mainland China,940.0,1.0,933.0,0
+2020-06-06,Jiangxi,Mainland China,942.0,1.0,920.0,0
+2020-06-07,Jiangxi,Mainland China,945.0,1.0,912.0,0
+2020-06-08,Jiangxi,Mainland China,947.0,1.0,905.0,0
+2020-06-09,Jiangxi,Mainland China,949.0,1.0,896.0,0
+2020-06-10,Jiangxi,Mainland China,953.0,1.0,904.0,0
+2020-06-04,Jilin,Mainland China,162.0,1.0,148.0,0
+2020-06-05,Jilin,Mainland China,165.0,1.0,150.0,0
+2020-06-06,Jilin,Mainland China,168.0,2.0,151.0,0
+2020-06-07,Jilin,Mainland China,170.0,2.0,152.0,0
+2020-06-08,Jilin,Mainland China,172.0,2.0,153.0,0
+2020-06-09,Jilin,Mainland China,176.0,2.0,154.0,0
+2020-06-10,Jilin,Mainland China,178.0,2.0,156.0,0
+2020-06-04,Liaoning,Mainland China,151.0,2.0,144.0,0
+2020-06-05,Liaoning,Mainland China,151.0,2.0,143.0,0
+2020-06-06,Liaoning,Mainland China,152.0,2.0,144.0,0
+2020-06-07,Liaoning,Mainland China,152.0,2.0,145.0,0
+2020-06-08,Liaoning,Mainland China,152.0,2.0,145.0,0
+2020-06-09,Liaoning,Mainland China,152.0,2.0,146.0,0
+2020-06-10,Liaoning,Mainland China,152.0,2.0,146.0,0
+2020-06-04,Ningxia,Mainland China,76.0,0.0,73.0,0
+2020-06-05,Ningxia,Mainland China,75.0,0.0,72.0,0
+2020-06-06,Ningxia,Mainland China,75.0,0.0,72.0,0
+2020-06-07,Ningxia,Mainland China,75.0,0.0,71.0,0
+2020-06-08,Ningxia,Mainland China,75.0,0.0,71.0,0
+2020-06-09,Ningxia,Mainland China,75.0,0.0,73.0,0
+2020-06-10,Ningxia,Mainland China,74.0,0.0,73.0,0
+2020-06-04,Qinghai,Mainland China,18.0,0.0,17.0,0
+2020-06-05,Qinghai,Mainland China,19.0,0.0,17.0,0
+2020-06-06,Qinghai,Mainland China,19.0,0.0,17.0,0
+2020-06-07,Qinghai,Mainland China,20.0,0.0,17.0,0
+2020-06-08,Qinghai,Mainland China,20.0,0.0,16.0,0
+2020-06-09,Qinghai,Mainland China,20.0,0.0,16.0,0
+2020-06-10,Qinghai,Mainland China,19.0,0.0,17.0,0
+2020-06-04,Shaanxi,Mainland China,311.0,3.0,310.0,0
+2020-06-05,Shaanxi,Mainland China,312.0,3.0,310.0,0
+2020-06-06,Shaanxi,Mainland China,312.0,3.0,309.0,0
+2020-06-07,Shaanxi,Mainland China,312.0,3.0,309.0,0
+2020-06-08,Shaanxi,Mainland China,311.0,3.0,312.0,0
+2020-06-09,Shaanxi,Mainland China,312.0,3.0,314.0,0
+2020-06-10,Shaanxi,Mainland China,314.0,3.0,318.0,0
+2020-06-04,Shandong,Mainland China,790.0,7.0,781.0,0
+2020-06-05,Shandong,Mainland China,796.0,7.0,789.0,0
+2020-06-06,Shandong,Mainland China,795.0,7.0,788.0,0
+2020-06-07,Shandong,Mainland China,799.0,7.0,781.0,0
+2020-06-08,Shandong,Mainland China,800.0,6.0,786.0,0
+2020-06-09,Shandong,Mainland China,800.0,7.0,795.0,0
+2020-06-10,Shandong,Mainland China,803.0,7.0,792.0,0
+2020-06-04,Shanghai,Mainland China,705.0,7.0,657.0,0
+2020-06-05,Shanghai,Mainland China,712.0,7.0,664.0,0
+2020-06-06,Shanghai,Mainland China,717.0,7.0,668.0,0
+2020-06-07,Shanghai,Mainland China,719.0,7.0,672.0,0
+2020-06-08,Shanghai,Mainland China,722.0,7.0,675.0,0
+2020-06-09,Shanghai,Mainland China,723.0,7.0,677.0,0
+2020-06-10,Shanghai,Mainland China,717.0,7.0,676.0,0
+2020-06-04,Shanxi,Mainland China,215.0,0.0,218.0,0
+2020-06-05,Shanxi,Mainland China,216.0,0.0,218.0,0
+2020-06-06,Shanxi,Mainland China,215.0,0.0,218.0,0
+2020-06-07,Shanxi,Mainland China,219.0,0.0,218.0,0
+2020-06-08,Shanxi,Mainland China,226.0,0.0,219.0,0
+2020-06-09,Shanxi,Mainland China,230.0,0.0,221.0,0
+2020-06-10,Shanxi,Mainland China,229.0,0.0,223.0,0
+2020-06-04,Sichuan,Mainland China,576.0,3.0,557.0,0
+2020-06-05,Sichuan,Mainland China,577.0,3.0,558.0,0
+2020-06-06,Sichuan,Mainland China,576.0,3.0,559.0,0
+2020-06-07,Sichuan,Mainland China,576.0,3.0,557.0,0
+2020-06-08,Sichuan,Mainland China,576.0,3.0,556.0,0
+2020-06-09,Sichuan,Mainland China,576.0,3.0,555.0,0
+2020-06-10,Sichuan,Mainland China,577.0,3.0,558.0,0
+2020-06-04,Tianjin,Mainland China,194.0,3.0,195.0,0
+2020-06-05,Tianjin,Mainland China,194.0,3.0,194.0,0
+2020-06-06,Tianjin,Mainland China,193.0,3.0,192.0,0
+2020-06-07,Tianjin,Mainland China,193.0,3.0,192.0,0
+2020-06-08,Tianjin,Mainland China,194.0,3.0,191.0,0
+2020-06-09,Tianjin,Mainland China,194.0,3.0,191.0,0
+2020-06-10,Tianjin,Mainland China,194.0,3.0,192.0,0
+2020-06-04,Tibet,Mainland China,1.0,0.0,1.0,0
+2020-06-05,Tibet,Mainland China,1.0,0.0,1.0,0
+2020-06-06,Tibet,Mainland China,1.0,0.0,1.0,0
+2020-06-07,Tibet,Mainland China,1.0,0.0,1.0,0
+2020-06-08,Tibet,Mainland China,1.0,0.0,1.0,0
+2020-06-09,Tibet,Mainland China,1.0,0.0,1.0,0
+2020-06-10,Tibet,Mainland China,1.0,0.0,1.0,0
+2020-06-04,Xinjiang,Mainland China,75.0,3.0,76.0,0
+2020-06-05,Xinjiang,Mainland China,75.0,3.0,76.0,0
+2020-06-06,Xinjiang,Mainland China,75.0,3.0,75.0,0
+2020-06-07,Xinjiang,Mainland China,75.0,3.0,74.0,0
+2020-06-08,Xinjiang,Mainland China,75.0,3.0,73.0,0
+2020-06-09,Xinjiang,Mainland China,76.0,3.0,72.0,0
+2020-06-10,Xinjiang,Mainland China,76.0,3.0,72.0,0
+2020-06-04,Yunnan,Mainland China,188.0,2.0,187.0,0
+2020-06-05,Yunnan,Mainland China,188.0,2.0,185.0,0
+2020-06-06,Yunnan,Mainland China,186.0,2.0,183.0,0
+2020-06-07,Yunnan,Mainland China,186.0,2.0,181.0,0
+2020-06-08,Yunnan,Mainland China,186.0,2.0,181.0,0
+2020-06-09,Yunnan,Mainland China,184.0,2.0,180.0,0
+2020-06-10,Yunnan,Mainland China,185.0,2.0,181.0,0
+2020-06-04,Zhejiang,Mainland China,1285.0,1.0,1264.0,0
+2020-06-05,Zhejiang,Mainland China,1292.0,1.0,1268.0,0
+2020-06-06,Zhejiang,Mainland China,1290.0,1.0,1267.0,0
+2020-06-07,Zhejiang,Mainland China,1287.0,1.0,1260.0,0
+2020-06-08,Zhejiang,Mainland China,1283.0,1.0,1261.0,0
+2020-06-09,Zhejiang,Mainland China,1281.0,1.0,1266.0,0
+2020-06-10,Zhejiang,Mainland China,1285.0,1.0,1269.0,0
+2020-06-09,Aguascalientes,Mexico,10000.0,97.0,8371.0,0
+2020-06-04,Baja California,Mexico,46735.0,7543.0,5066.0,0
+2020-06-08,Baja California Sur,Mexico,5651.0,1561.0,4935.0,0
+2020-06-09,Baja California Sur,Mexico,15969.0,731.0,5061.0,0
+2020-06-04,Campeche,Mexico,4931.0,856.0,632.0,0
+2020-06-05,Campeche,Mexico,11264.0,2040.0,462.0,0
+2020-06-09,Chiapas,Mexico,29888.0,837.0,10955.0,0
+2020-06-10,Chiapas,Mexico,74089.0,669.0,28254.0,0
+2020-06-06,Ciudad de Mexico,Mexico,224876.0,482.0,128534.0,0
+2020-06-04,Coahuila,Mexico,9017.0,69.0,7017.0,0
+2020-06-05,Coahuila,Mexico,23191.0,315.0,16352.0,0
+2020-06-06,Coahuila,Mexico,21892.0,611.0,14545.0,0
+2020-06-07,Colima,Mexico,797.0,361.0,210.0,0
+2020-06-08,Colima,Mexico,188.0,247.0,90.0,0
+2020-06-08,Durango,Mexico,3869.0,1290.0,1818.0,0
+2020-06-10,Guanajuato,Mexico,50340.0,1380.0,22988.0,0
+2020-06-07,Guerrero,Mexico,45441.0,3009.0,25628.0,0
+2020-06-08,Guerrero,Mexico,15878.0,6318.0,47317.0,0
+2020-06-09,Guerrero,Mexico,29719.0,1340.0,71732.0,0
+2020-06-08,Hidalgo,Mexico,7982.0,3973.0,4697.0,0
+2020-06-10,Hidalgo,Mexico,31944.0,7239.0,4262.0,0
+2020-06-07,Jalisco,Mexico,12326.0,9213.0,34897.0,0
+2020-06-04,Mexico,Mexico,11018.0,4874.0,21776.0,0
+2020-06-05,Mexico,Mexico,6423.0,2522.0,42272.0,0
+2020-06-08,Mexico,Mexico,104729.0,3123.0,7171.0,0
+2020-06-06,Michoacan,Mexico,10084.0,4947.0,56158.0,0
+2020-06-07,Michoacan,Mexico,79437.0,9910.0,25173.0,0
+2020-06-04,Nuevo Leon,Mexico,2425.0,579.0,713.0,0
+2020-06-05,Nuevo Leon,Mexico,8622.0,1716.0,10464.0,0
+2020-06-06,Nuevo Leon,Mexico,10131.0,1210.0,26023.0,0
+2020-06-07,Oaxaca,Mexico,36539.0,103.0,12354.0,0
+2020-06-08,Oaxaca,Mexico,18524.0,335.0,14100.0,0
+2020-06-07,Puebla,Mexico,33067.0,6574.0,4571.0,0
+2020-06-06,Quintana Roo,Mexico,9177.0,4350.0,487.0,0
+2020-06-04,San Luis Potosi,Mexico,19809.0,232.0,2503.0,0
+2020-06-05,San Luis Potosi,Mexico,53329.0,532.0,1992.0,0
+2020-06-04,Sonora,Mexico,32023.0,501.0,339.0,0
+2020-06-07,Sonora,Mexico,31743.0,1453.0,8464.0,0
+2020-06-06,Tabasco,Mexico,29493.0,3369.0,3139.0,0
+2020-06-07,Tabasco,Mexico,16979.0,24124.0,71720.0,0
+2020-06-08,Tamaulipas,Mexico,57122.0,15.0,4841.0,0
+2020-06-04,Tlaxcala,Mexico,196.0,198.0,5574.0,0
+2020-06-08,Veracruz,Mexico,1264.0,13347.0,5488.0,0
+2020-06-04,Yucatan,Mexico,19091.0,155.0,15184.0,0
+2020-06-05,Zacatecas,Mexico,5710.0,1210.0,717.0,0
+2020-06-06,Zacatecas,Mexico,2273.0,1112.0,4899.0,0
+2020-06-04,Curacao,Netherlands,18.0,1.0,15.0,0
+2020-06-05,Curacao,Netherlands,19.0,1.0,15.0,0
+2020-06-06,Curacao,Netherlands,19.0,1.0,15.0,0
+2020-06-07,Curacao,Netherlands,19.0,1.0,16.0,0
+2020-06-08,Curacao,Netherlands,20.0,1.0,16.0,0
+2020-06-09,Curacao,Netherlands,20.0,1.0,16.0,0
+2020-06-10,Curacao,Netherlands,20.0,1.0,16.0,0
+2020-03-23,Netherlands,Netherlands,22778.0,466.0,2.0,0
+2020-06-04,Aruba,Netherlands,101.0,3.0,95.0,0
+2020-06-05,Aruba,Netherlands,100.0,3.0,94.0,0
+2020-06-06,Aruba,Netherlands,101.0,3.0,95.0,0
+2020-06-07,Aruba,Netherlands,102.0,4.0,98.0,0
+2020-06-08,Aruba,Netherlands,100.0,4.0,96.0,0
+2020-06-09,Aruba,Netherlands,100.0,3.0,97.0,0
+2020-06-10,Aruba,Netherlands,102.0,4.0,103.0,0
+2020-06-04,Sint Maarten,Netherlands,75.0,16.0,72.0,0
+2020-06-05,Sint Maarten,Netherlands,77.0,17.0,73.0,0
+2020-06-06,Sint Maarten,Netherlands,81.0,17.0,72.0,0
+2020-06-07,Sint Maarten,Netherlands,81.0,17.0,72.0,0
+2020-06-08,Sint Maarten,Netherlands,79.0,17.0,71.0,0
+2020-06-09,Sint Maarten,Netherlands,79.0,17.0,70.0,0
+2020-06-10,Sint Maarten,Netherlands,82.0,18.0,72.0,0
+2020-06-04,"Bonaire, Sint Eustatius and Saba",Netherlands,7.0,0.0,6.0,0
+2020-06-05,"Bonaire, Sint Eustatius and Saba",Netherlands,7.0,0.0,6.0,0
+2020-06-06,"Bonaire, Sint Eustatius and Saba",Netherlands,6.0,0.0,7.0,0
+2020-06-07,"Bonaire, Sint Eustatius and Saba",Netherlands,6.0,0.0,6.0,0
+2020-06-08,"Bonaire, Sint Eustatius and Saba",Netherlands,7.0,0.0,6.0,0
+2020-06-09,"Bonaire, Sint Eustatius and Saba",Netherlands,6.0,0.0,6.0,0
+2020-06-10,"Bonaire, Sint Eustatius and Saba",Netherlands,6.0,0.0,6.0,0
+2020-06-05,Amazonas,Peru,5450.0,60.0,0.0,0
+2020-06-08,Amazonas,Peru,2904.0,187.0,0.0,0
+2020-06-09,Amazonas,Peru,12842.0,639.0,0.0,0
+2020-06-10,Amazonas,Peru,11065.0,341.0,0.0,0
+2020-06-06,Apurimac,Peru,112.0,2.0,0.0,0
+2020-06-07,Apurimac,Peru,3231.0,18.0,0.0,0
+2020-06-08,Apurimac,Peru,2020.0,-0.0,0.0,0
+2020-06-09,Apurimac,Peru,266.0,0.0,0.0,0
+2020-06-06,Arequipa,Peru,27374.0,32.0,0.0,0
+2020-06-07,Arequipa,Peru,78904.0,788.0,0.0,0
+2020-06-08,Arequipa,Peru,175798.0,1110.0,0.0,0
+2020-06-09,Arequipa,Peru,75095.0,1451.0,0.0,0
+2020-06-04,Ayacucho,Peru,2052.0,96.0,0.0,0
+2020-06-08,Ayacucho,Peru,13598.0,115.0,0.0,0
+2020-06-09,Ayacucho,Peru,35777.0,146.0,0.0,0
+2020-06-10,Ayacucho,Peru,8001.0,112.0,0.0,0
+2020-06-09,Cajamarca,Peru,6572.0,62.0,0.0,0
+2020-06-10,Cajamarca,Peru,26498.0,10.0,0.0,0
+2020-06-05,Callao,Peru,33687.0,3825.0,0.0,0
+2020-06-06,Callao,Peru,61610.0,3497.0,0.0,0
+2020-06-07,Callao,Peru,78584.0,2559.0,0.0,0
+2020-06-08,Callao,Peru,85256.0,1311.0,0.0,0
+2020-06-04,Cusco,Peru,17514.0,3.0,0.0,0
+2020-06-08,Cusco,Peru,3465.0,3.0,0.0,0
+2020-06-09,Cusco,Peru,10060.0,3.0,0.0,0
+2020-06-04,Huancavelica,Peru,3637.0,1.0,0.0,0
+2020-06-05,Huancavelica,Peru,9337.0,1.0,0.0,0
+2020-06-06,Huancavelica,Peru,6913.0,1.0,0.0,0
+2020-06-09,Huancavelica,Peru,4180.0,1.0,0.0,0
+2020-06-10,Huancavelica,Peru,8727.0,1.0,0.0,0
+2020-06-10,Ica,Peru,18167.0,1111.0,0.0,0
+2020-06-04,Junin,Peru,29899.0,97.0,0.0,0
+2020-06-07,La Libertad,Peru,91729.0,711.0,0.0,0
+2020-06-04,Lambayeque,Peru,8147.0,3467.0,0.0,0
+2020-06-05,Lambayeque,Peru,97187.0,246.0,0.0,0
+2020-06-07,Lambayeque,Peru,70971.0,3629.0,0.0,0
+2020-06-08,Lambayeque,Peru,10000.0,7588.0,0.0,0
+2020-06-06,Lima,Peru,2476932.0,19030.0,0.0,0
+2020-06-07,Lima,Peru,1908628.0,39478.0,0.0,0
+2020-06-09,Lima,Peru,1160767.0,25046.0,0.0,0
+2020-06-04,Loreto,Peru,5323.0,925.0,0.0,0
+2020-06-05,Loreto,Peru,92150.0,7003.0,0.0,0
+2020-06-06,Loreto,Peru,93992.0,10679.0,0.0,0
+2020-06-08,Loreto,Peru,14775.0,751.0,0.0,0
+2020-06-09,Loreto,Peru,103199.0,6576.0,0.0,0
+2020-06-10,Loreto,Peru,66226.0,467.0,0.0,0
+2020-06-04,Madre de Dios,Peru,2413.0,6.0,0.0,0
+2020-06-05,Madre de Dios,Peru,3248.0,6.0,0.0,0
+2020-06-10,Madre de Dios,Peru,2616.0,6.0,0.0,0
+2020-06-05,Moquegua,Peru,3977.0,2.0,0.0,0
+2020-06-10,Moquegua,Peru,5476.0,2.0,0.0,0
+2020-06-04,Pasco,Peru,1884.0,76.0,0.0,0
+2020-06-10,Pasco,Peru,871.0,167.0,0.0,0
+2020-06-06,Piura,Peru,38359.0,1042.0,0.0,0
+2020-06-08,Piura,Peru,233727.0,3910.0,0.0,0
+2020-06-05,Puno,Peru,3372.0,66.0,0.0,0
+2020-06-07,Puno,Peru,3156.0,26.0,0.0,0
+2020-06-08,Puno,Peru,6616.0,12.0,0.0,0
+2020-06-04,Tacna,Peru,6759.0,36.0,0.0,0
+2020-06-05,Tacna,Peru,4348.0,49.0,0.0,0
+2020-06-06,Tacna,Peru,1670.0,110.0,0.0,0
+2020-06-07,Ucayali,Peru,109336.0,2257.0,0.0,0
+2020-06-08,Ucayali,Peru,130555.0,1436.0,0.0,0
+2020-06-04,Unknown,Peru,0.0,0.0,2434705.0,0
+2020-06-05,Unknown,Peru,0.0,0.0,1740179.0,0
+2020-06-06,Unknown,Peru,0.0,0.0,1070834.0,0
+2020-06-07,Unknown,Peru,0.0,0.0,1759937.0,0
+2020-06-08,Unknown,Peru,0.0,0.0,734196.0,0
+2020-06-09,Unknown,Peru,0.0,0.0,5148.0,0
+2020-06-10,Unknown,Peru,0.0,0.0,299284.0,0
+2020-06-05,Adygea Republic,Russia,7204.0,9.0,6998.0,0
+2020-06-08,Adygea Republic,Russia,8284.0,9.0,662.0,0
+2020-06-06,Altai Krai,Russia,17076.0,12.0,14764.0,0
+2020-06-07,Altai Krai,Russia,30260.0,12.0,6351.0,0
+2020-06-10,Altai Krai,Russia,57241.0,12.0,17099.0,0
+2020-06-06,Altai Republic,Russia,506.0,0.0,672.0,0
+2020-06-07,Altai Republic,Russia,2708.0,0.0,738.0,0
+2020-06-08,Altai Republic,Russia,1538.0,0.0,1844.0,0
+2020-06-09,Altai Republic,Russia,89.0,0.0,2623.0,0
+2020-06-10,Altai Republic,Russia,577.0,0.0,3106.0,0
+2020-06-08,Arkhangelsk Oblast,Russia,3929.0,19.0,5033.0,0
+2020-06-05,Astrakhan Oblast,Russia,10752.0,176.0,4954.0,0
+2020-06-06,Astrakhan Oblast,Russia,19555.0,616.0,12963.0,0
+2020-06-09,Astrakhan Oblast,Russia,24587.0,70.0,23856.0,0
+2020-06-09,Bashkortostan Republic,Russia,127123.0,18.0,20099.0,0
+2020-06-10,Bashkortostan Republic,Russia,37851.0,18.0,457.0,0
+2020-06-09,Belgorod Oblast,Russia,48694.0,255.0,22425.0,0
+2020-06-10,Belgorod Oblast,Russia,58478.0,213.0,12563.0,0
+2020-06-07,Bryansk Oblast,Russia,109953.0,31.0,52851.0,0
+2020-06-08,Bryansk Oblast,Russia,987.0,31.0,42188.0,0
+2020-06-10,Buryatia Republic,Russia,1938.0,10.0,27592.0,0
+2020-06-07,Chelyabinsk Oblast,Russia,109714.0,139.0,3367.0,0
+2020-06-09,Chelyabinsk Oblast,Russia,44246.0,109.0,7051.0,0
+2020-06-10,Chelyabinsk Oblast,Russia,5304.0,391.0,9521.0,0
+2020-06-09,Chukotka Autonomous Okrug,Russia,127.0,1.0,253.0,0
+2020-06-10,Chukotka Autonomous Okrug,Russia,170.0,1.0,246.0,0
+2020-06-05,Chuvashia Republic,Russia,63628.0,14.0,29504.0,0
+2020-06-09,Dagestan Republic,Russia,66360.0,670.0,15783.0,0
+2020-06-04,Ingushetia Republic,Russia,44530.0,180.0,2947.0,0
+2020-06-06,Ivanovo Oblast,Russia,40642.0,18.0,4247.0,0
+2020-06-07,Ivanovo Oblast,Russia,2713.0,18.0,526.0,0
+2020-06-10,Kaliningrad Oblast,Russia,9433.0,24.0,10069.0,0
+2020-06-10,Kalmykia Republic,Russia,13397.0,142.0,512.0,0
+2020-06-04,Kaluga Oblast,Russia,36024.0,260.0,15442.0,0
+2020-06-06,Karachay-Cherkess Republic,Russia,28928.0,5.0,148.0,0
+2020-06-04,Karelia Republic,Russia,6550.0,15.0,72.0,0
+2020-06-06,Karelia Republic,Russia,3590.0,23.0,748.0,0
+2020-06-04,Kemerovo Oblast,Russia,6260.0,7.0,7358.0,0
+2020-06-07,Khabarovsk Krai,Russia,50928.0,109.0,8441.0,0
+2020-06-05,Khakassia Republic,Russia,3446.0,10.0,3647.0,0
+2020-06-08,Khakassia Republic,Russia,3268.0,10.0,13149.0,0
+2020-06-06,Khanty-Mansi Autonomous Okrug,Russia,28307.0,18.0,28309.0,0
+2020-06-10,Khanty-Mansi Autonomous Okrug,Russia,12240.0,18.0,1725.0,0
+2020-06-04,Kirov Oblast,Russia,16264.0,17.0,10956.0,0
+2020-06-05,Kirov Oblast,Russia,31046.0,17.0,23157.0,0
+2020-06-07,Kirov Oblast,Russia,837.0,17.0,28437.0,0
+2020-06-09,Kirov Oblast,Russia,28393.0,17.0,16166.0,0
+2020-06-10,Kirov Oblast,Russia,21784.0,17.0,6290.0,0
+2020-06-04,Krasnodar Krai,Russia,79177.0,305.0,38788.0,0
+2020-06-06,Krasnodar Krai,Russia,52793.0,284.0,38983.0,0
+2020-06-05,Krasnoyarsk Krai,Russia,3064.0,199.0,20158.0,0
+2020-06-10,Krasnoyarsk Krai,Russia,21149.0,141.0,46693.0,0
+2020-06-05,Kurgan Oblast,Russia,6303.0,0.0,3106.0,0
+2020-06-08,Kurgan Oblast,Russia,2806.0,0.0,904.0,0
+2020-06-10,Kurgan Oblast,Russia,1573.0,0.0,2168.0,0
+2020-06-04,Kursk Oblast,Russia,38396.0,13.0,58807.0,0
+2020-06-05,Kursk Oblast,Russia,73079.0,13.0,2615.0,0
+2020-06-05,Magadan Oblast,Russia,2420.0,3.0,1195.0,0
+2020-06-05,Moscow Oblast,Russia,523702.0,2547.0,159989.0,0
+2020-06-06,Moscow Oblast,Russia,278771.0,211.0,72006.0,0
+2020-06-09,Moscow Oblast,Russia,291008.0,489.0,69951.0,0
+2020-06-05,Nenets Autonomous Okrug,Russia,280.0,0.0,273.0,0
+2020-06-06,Nenets Autonomous Okrug,Russia,1182.0,0.0,158.0,0
+2020-06-07,Nenets Autonomous Okrug,Russia,370.0,0.0,13.0,0
+2020-06-08,Nenets Autonomous Okrug,Russia,682.0,0.0,58.0,0
+2020-06-06,Nizhny Novgorod Oblast,Russia,122825.0,2456.0,7898.0,0
+2020-06-10,Nizhny Novgorod Oblast,Russia,50147.0,564.0,1491.0,0
+2020-06-05,Novosibirsk Oblast,Russia,35343.0,103.0,21632.0,0
+2020-06-09,Novosibirsk Oblast,Russia,5681.0,74.0,6272.0,0
+2020-06-10,Novosibirsk Oblast,Russia,4614.0,67.0,8242.0,0
+2020-06-06,Omsk Oblast,Russia,34278.0,18.0,7209.0,0
+2020-06-10,Omsk Oblast,Russia,20966.0,18.0,1795.0,0
+2020-06-06,Orenburg Oblast,Russia,18631.0,48.0,28.0,0
+2020-06-10,Orenburg Oblast,Russia,6126.0,34.0,17752.0,0
+2020-06-04,Penza Oblast,Russia,1896.0,11.0,4185.0,0
+2020-06-05,Perm Krai,Russia,29663.0,23.0,3877.0,0
+2020-06-07,Perm Krai,Russia,13551.0,360.0,9070.0,0
+2020-06-08,Perm Krai,Russia,23160.0,131.0,1430.0,0
+2020-06-09,Perm Krai,Russia,36751.0,71.0,763.0,0
+2020-06-04,Primorsky Krai,Russia,39573.0,19.0,21436.0,0
+2020-06-04,Pskov Oblast,Russia,1170.0,10.0,2038.0,0
+2020-06-09,Pskov Oblast,Russia,11102.0,10.0,502.0,0
+2020-06-04,Rostov Oblast,Russia,100185.0,239.0,84557.0,0
+2020-06-07,Sakha (Yakutiya) Republic,Russia,12134.0,256.0,20876.0,0
+2020-06-08,Sakha (Yakutiya) Republic,Russia,36167.0,48.0,12900.0,0
+2020-06-09,Sakha (Yakutiya) Republic,Russia,4671.0,127.0,2785.0,0
+2020-06-07,Sakhalin Oblast,Russia,3910.0,0.0,428.0,0
+2020-06-10,Sakhalin Oblast,Russia,916.0,0.0,259.0,0
+2020-06-04,Stavropol Krai,Russia,14355.0,439.0,15847.0,0
+2020-06-09,Stavropol Krai,Russia,10667.0,1050.0,9997.0,0
+2020-06-10,Stavropol Krai,Russia,845.0,1211.0,6778.0,0
+2020-06-06,Sverdlovsk Oblast,Russia,48408.0,1023.0,7189.0,0
+2020-06-05,Tatarstan Republic,Russia,21365.0,10.0,10485.0,0
+2020-06-06,Tomsk Oblast,Russia,16298.0,11.0,6903.0,0
+2020-06-08,Tver Oblast,Russia,4822.0,467.0,23666.0,0
+2020-06-05,Tyumen Oblast,Russia,66302.0,8.0,11212.0,0
+2020-06-10,Tyumen Oblast,Russia,1423.0,8.0,23294.0,0
+2020-06-04,Tyva Republic,Russia,8988.0,2.0,3986.0,0
+2020-06-07,Tyva Republic,Russia,3057.0,2.0,5261.0,0
+2020-06-10,Tyva Republic,Russia,13062.0,2.0,2619.0,0
+2020-06-07,Udmurt Republic,Russia,7611.0,12.0,4487.0,0
+2020-06-09,Udmurt Republic,Russia,1551.0,12.0,8782.0,0
+2020-06-10,Udmurt Republic,Russia,16239.0,12.0,22279.0,0
+2020-06-09,Ulyanovsk Oblast,Russia,17836.0,70.0,17114.0,0
+2020-06-10,Ulyanovsk Oblast,Russia,22517.0,128.0,7572.0,0
+2020-06-05,Vladimir Oblast,Russia,2758.0,136.0,12040.0,0
+2020-06-05,Volgograd Oblast,Russia,6013.0,20.0,6964.0,0
+2020-06-04,Voronezh Oblast,Russia,39501.0,483.0,7580.0,0
+2020-06-06,Voronezh Oblast,Russia,55440.0,114.0,13434.0,0
+2020-06-10,Yaroslavl Oblast,Russia,2734.0,14.0,15.0,0
+2020-06-04,Andalusia,Spain,29264.0,6841.0,425575.0,0
+2020-06-05,Andalusia,Spain,81472.0,22764.0,1242483.0,0
+2020-06-06,Andalusia,Spain,140830.0,36023.0,1132204.0,0
+2020-06-09,Aragon,Spain,14092.0,11855.0,130766.0,0
+2020-06-04,Asturias,Spain,10242.0,1439.0,44443.0,0
+2020-06-05,Asturias,Spain,33756.0,2734.0,131797.0,0
+2020-06-09,Asturias,Spain,5980.0,833.0,20224.0,0
+2020-06-04,Baleares,Spain,8412.0,844.0,60037.0,0
+2020-06-05,Baleares,Spain,29693.0,2932.0,163159.0,0
+2020-06-06,Baleares,Spain,51114.0,4952.0,110172.0,0
+2020-06-04,C. Valenciana,Spain,14699.0,4125.0,407413.0,0
+2020-06-05,C. Valenciana,Spain,24023.0,11282.0,1175506.0,0
+2020-06-06,C. Valenciana,Spain,26654.0,11200.0,1012847.0,0
+2020-06-10,C. Valenciana,Spain,34676.0,10172.0,563125.0,0
+2020-06-10,Canarias,Spain,39805.0,810.0,73773.0,0
+2020-06-09,Cantabria,Spain,15134.0,3284.0,201744.0,0
+2020-06-04,Castilla y Leon,Spain,31625.0,2129.0,380735.0,0
+2020-06-05,Castilla y Leon,Spain,61888.0,4066.0,1150876.0,0
+2020-06-06,Castilla y Leon,Spain,105111.0,14686.0,1114752.0,0
+2020-06-04,Catalonia,Spain,134005.0,33549.0,875699.0,0
+2020-06-05,Catalonia,Spain,360090.0,62346.0,2191470.0,0
+2020-06-09,Catalonia,Spain,391966.0,19287.0,3367790.0,0
+2020-06-04,Extremadura,Spain,246.0,647.0,103314.0,0
+2020-06-06,Extremadura,Spain,4278.0,860.0,264245.0,0
+2020-06-09,Galicia,Spain,167962.0,18821.0,615458.0,0
+2020-06-10,Galicia,Spain,57810.0,6293.0,1004415.0,0
+2020-06-04,Madrid,Spain,80492.0,53046.0,1632381.0,0
+2020-06-05,Madrid,Spain,126344.0,213472.0,4657437.0,0
+2020-06-06,Madrid,Spain,222069.0,382980.0,3860738.0,0
+2020-06-04,Melilla,Spain,480.0,2.0,5488.0,0
+2020-06-05,Melilla,Spain,2227.0,2.0,16319.0,0
+2020-06-06,Melilla,Spain,5856.0,2.0,14961.0,0
+2020-06-09,Melilla,Spain,3268.0,2.0,4134.0,0
+2020-06-04,Murcia,Spain,755.0,472.0,87241.0,0
+2020-06-06,Murcia,Spain,1669.0,287.0,240907.0,0
+2020-06-04,Navarra,Spain,10772.0,1320.0,148497.0,0
+2020-06-05,Navarra,Spain,31021.0,4810.0,404927.0,0
+2020-06-06,Navarra,Spain,61009.0,10838.0,283138.0,0
+2020-06-04,Pais Vasco,Spain,7680.0,1829.0,679164.0,0
+2020-06-10,Pais Vasco,Spain,26455.0,1204.0,653183.0,0
+2020-06-10,Unknown,Spain,0.0,0.0,3135427.0,0
+2020-06-04,Channel Islands,UK,572.0,52.0,618.0,0
+2020-06-05,Channel Islands,UK,586.0,52.0,625.0,0
+2020-06-06,Channel Islands,UK,586.0,52.0,624.0,0
+2020-06-07,Channel Islands,UK,579.0,52.0,632.0,0
+2020-06-08,Channel Islands,UK,572.0,51.0,631.0,0
+2020-06-09,Channel Islands,UK,565.0,51.0,638.0,0
+2020-06-10,Channel Islands,UK,570.0,55.0,672.0,0
+2020-06-04,Gibraltar,UK,172.0,0.0,153.0,0
+2020-06-05,Gibraltar,UK,174.0,0.0,152.0,0
+2020-06-06,Gibraltar,UK,174.0,0.0,154.0,0
+2020-06-07,Gibraltar,UK,176.0,0.0,155.0,0
+2020-06-08,Gibraltar,UK,175.0,0.0,154.0,0
+2020-06-09,Gibraltar,UK,173.0,0.0,152.0,0
+2020-06-10,Gibraltar,UK,176.0,0.0,157.0,0
+2020-03-13,UK,UK,456.0,8.0,18.0,0
+2020-03-14,UK,UK,456.0,8.0,18.0,0
+2020-03-15,UK,UK,456.0,8.0,18.0,0
+2020-03-16,UK,UK,456.0,8.0,18.0,0
+2020-03-17,UK,UK,456.0,8.0,18.0,0
+2020-03-18,UK,UK,456.0,8.0,18.0,0
+2020-03-19,UK,UK,456.0,8.0,18.0,0
+2020-03-22,United Kingdom,UK,11360.0,6228.0,527.0,0
+2020-03-23,United Kingdom,UK,46744.0,8679.0,1690.0,0
+2020-03-24,United Kingdom,UK,61908.0,2370.0,1152.0,0
+2020-03-26,United Kingdom,UK,83741.0,1609.0,422.0,0
+2020-03-27,United Kingdom,UK,90420.0,44.0,1090.0,0
+2020-06-04,Cayman Islands,UK,165.0,1.0,84.0,0
+2020-06-05,Cayman Islands,UK,169.0,1.0,89.0,0
+2020-06-06,Cayman Islands,UK,171.0,1.0,91.0,0
+2020-06-07,Cayman Islands,UK,173.0,1.0,94.0,0
+2020-06-08,Cayman Islands,UK,178.0,1.0,98.0,0
+2020-06-09,Cayman Islands,UK,181.0,1.0,100.0,0
+2020-06-10,Cayman Islands,UK,182.0,1.0,102.0,0
+2020-06-04,Montserrat,UK,11.0,1.0,13.0,0
+2020-06-05,Montserrat,UK,10.0,1.0,13.0,0
+2020-06-06,Montserrat,UK,11.0,1.0,13.0,0
+2020-06-07,Montserrat,UK,11.0,1.0,14.0,0
+2020-06-08,Montserrat,UK,11.0,1.0,14.0,0
+2020-06-09,Montserrat,UK,11.0,1.0,14.0,0
+2020-06-10,Montserrat,UK,11.0,1.0,14.0,0
+2020-06-04,Bermuda,UK,142.0,9.0,111.0,0
+2020-06-05,Bermuda,UK,142.0,9.0,113.0,0
+2020-06-06,Bermuda,UK,140.0,10.0,115.0,0
+2020-06-07,Bermuda,UK,138.0,10.0,117.0,0
+2020-06-08,Bermuda,UK,140.0,11.0,125.0,0
+2020-06-09,Bermuda,UK,141.0,11.0,128.0,0
+2020-06-10,Bermuda,UK,141.0,11.0,129.0,0
+2020-06-04,Isle of Man,UK,346.0,33.0,295.0,0
+2020-06-05,Isle of Man,UK,344.0,34.0,299.0,0
+2020-06-06,Isle of Man,UK,342.0,33.0,319.0,0
+2020-06-07,Isle of Man,UK,337.0,32.0,328.0,0
+2020-06-08,Isle of Man,UK,337.0,33.0,332.0,0
+2020-06-09,Isle of Man,UK,344.0,32.0,336.0,0
+2020-06-10,Isle of Man,UK,347.0,32.0,340.0,0
+2020-06-04,Anguilla,UK,3.0,0.0,4.0,0
+2020-06-05,Anguilla,UK,3.0,0.0,4.0,0
+2020-06-06,Anguilla,UK,3.0,0.0,4.0,0
+2020-06-07,Anguilla,UK,3.0,0.0,4.0,0
+2020-06-08,Anguilla,UK,3.0,0.0,4.0,0
+2020-06-09,Anguilla,UK,3.0,0.0,4.0,0
+2020-06-10,Anguilla,UK,3.0,0.0,4.0,0
+2020-06-04,British Virgin Islands,UK,8.0,1.0,6.0,0
+2020-06-05,British Virgin Islands,UK,8.0,1.0,7.0,0
+2020-06-06,British Virgin Islands,UK,8.0,1.0,7.0,0
+2020-06-07,British Virgin Islands,UK,8.0,1.0,7.0,0
+2020-06-08,British Virgin Islands,UK,8.0,1.0,7.0,0
+2020-06-09,British Virgin Islands,UK,8.0,1.0,7.0,0
+2020-06-10,British Virgin Islands,UK,8.0,1.0,7.0,0
+2020-06-04,Turks and Caicos Islands,UK,11.0,1.0,13.0,0
+2020-06-05,Turks and Caicos Islands,UK,11.0,1.0,13.0,0
+2020-06-06,Turks and Caicos Islands,UK,12.0,1.0,13.0,0
+2020-06-07,Turks and Caicos Islands,UK,12.0,1.0,13.0,0
+2020-06-08,Turks and Caicos Islands,UK,12.0,1.0,14.0,0
+2020-06-09,Turks and Caicos Islands,UK,12.0,1.0,14.0,0
+2020-06-10,Turks and Caicos Islands,UK,12.0,1.0,14.0,0
+2020-04-08,Falkland Islands (Islas Malvinas),UK,42.0,0.0,0.0,0
+2020-04-10,Falkland Islands (Islas Malvinas),UK,1.0,0.0,0.0,0
+2020-04-12,Falkland Islands (Islas Malvinas),UK,6.0,0.0,0.0,0
+2020-06-04,Falkland Islands (Malvinas),UK,13.0,0.0,21.0,0
+2020-06-05,Falkland Islands (Malvinas),UK,13.0,0.0,23.0,0
+2020-06-06,Falkland Islands (Malvinas),UK,12.0,0.0,20.0,0
+2020-06-07,Falkland Islands (Malvinas),UK,11.0,0.0,18.0,0
+2020-06-08,Falkland Islands (Malvinas),UK,12.0,0.0,18.0,0
+2020-06-09,Falkland Islands (Malvinas),UK,12.0,0.0,17.0,0
+2020-06-10,Falkland Islands (Malvinas),UK,13.0,0.0,16.0,0
+2020-06-04,Washington,US,22773.0,1151.0,-0.0,0
+2020-06-05,Washington,US,23099.0,1165.0,-0.0,0
+2020-06-06,Washington,US,23485.0,1181.0,-0.0,0
+2020-06-07,Washington,US,23809.0,1187.0,-0.0,0
+2020-06-08,Washington,US,24032.0,1195.0,-0.0,0
+2020-06-09,Washington,US,24268.0,1214.0,0.0,0
+2020-06-10,Washington,US,24520.0,1228.0,0.0,0
+2020-06-04,Illinois,US,126476.0,5744.0,-0.0,0
+2020-06-05,Illinois,US,128461.0,5874.0,-0.0,0
+2020-06-06,Illinois,US,129897.0,5975.0,-0.0,0
+2020-06-07,Illinois,US,131867.0,6039.0,-0.0,0
+2020-06-08,Illinois,US,133822.0,6105.0,-0.0,0
+2020-06-09,Illinois,US,135429.0,6218.0,0.0,0
+2020-06-10,Illinois,US,137194.0,6328.0,0.0,0
+2020-06-04,Arizona,US,21905.0,995.0,-0.0,0
+2020-06-05,Arizona,US,22383.0,1024.0,-0.0,0
+2020-06-06,Arizona,US,23025.0,1050.0,-0.0,0
+2020-06-07,Arizona,US,23399.0,1073.0,-0.0,0
+2020-06-08,Arizona,US,23678.0,1094.0,-0.0,0
+2020-06-09,Arizona,US,24002.0,1112.0,0.0,0
+2020-06-10,Arizona,US,24269.0,1132.0,0.0,0
+2020-06-06,California,US,128312.0,4626.0,-0.0,0
+2020-06-09,California,US,135939.0,4807.0,-0.0,0
+2020-03-06,"Boston, MA",US,1.0,0.0,-0.0,0
+2020-03-09,"Boston, MA",US,1.0,0.0,0.0,0
+2020-03-10,"Boston, MA",US,1.0,0.0,1.0,0
+2020-03-11,"Boston, MA",US,1.0,0.0,1.0,0
+2020-03-12,"Boston, MA",US,1.0,0.0,1.0,0
+2020-03-06,"Chicago, IL",US,24.0,0.0,21.0,0
+2020-03-07,"Chicago, IL",US,12.0,0.0,35.0,0
+2020-03-08,"Chicago, IL",US,5.0,0.0,19.0,0
+2020-03-10,"Los Angeles, CA",US,2.0,0.0,0.0,0
+2020-03-11,"Los Angeles, CA",US,5.0,0.0,0.0,0
+2020-03-12,"Los Angeles, CA",US,12.0,0.0,0.0,0
+2020-03-13,"Los Angeles, CA",US,12.0,0.0,0.0,0
+2020-03-14,"Los Angeles, CA",US,14.0,0.0,0.0,0
+2020-03-15,"Los Angeles, CA",US,15.0,0.0,0.0,0
+2020-03-16,"Los Angeles, CA",US,10.0,0.0,0.0,0
+2020-03-04,"Orange, CA",US,1.0,0.0,0.0,0
+2020-03-05,"Orange, CA",US,1.0,0.0,0.0,0
+2020-03-06,"Orange, CA",US,1.0,0.0,0.0,0
+2020-03-07,"Orange, CA",US,1.0,0.0,0.0,0
+2020-03-08,"Orange, CA",US,1.0,0.0,0.0,0
+2020-03-09,"Orange, CA",US,1.0,0.0,0.0,0
+2020-03-10,"Orange, CA",US,1.0,0.0,0.0,0
+2020-03-07,"Santa Clara, CA",US,2.0,0.0,1.0,0
+2020-03-09,"Santa Clara, CA",US,7.0,0.0,1.0,0
+2020-03-10,"Santa Clara, CA",US,13.0,0.0,1.0,0
+2020-03-11,"Santa Clara, CA",US,11.0,0.0,1.0,0
+2020-03-12,"Santa Clara, CA",US,20.0,0.0,1.0,0
+2020-03-13,"Santa Clara, CA",US,20.0,0.0,1.0,0
+2020-03-07,"Tempe, AZ",US,1.0,0.0,1.0,0
+2020-03-08,"Tempe, AZ",US,1.0,0.0,1.0,0
+2020-03-09,"Tempe, AZ",US,1.0,0.0,1.0,0
+2020-03-10,"Tempe, AZ",US,1.0,0.0,1.0,0
+2020-03-11,"Tempe, AZ",US,1.0,0.0,1.0,0
+2020-03-12,"Tempe, AZ",US,1.0,0.0,1.0,0
+2020-03-13,"Tempe, AZ",US,1.0,0.0,1.0,0
+2020-03-10,"San Benito, CA",US,2.0,0.0,0.0,0
+2020-03-11,"San Benito, CA",US,2.0,0.0,0.0,0
+2020-03-12,"San Benito, CA",US,2.0,0.0,0.0,0
+2020-03-13,"San Benito, CA",US,2.0,0.0,0.0,0
+2020-03-14,"San Benito, CA",US,2.0,0.0,0.0,0
+2020-03-15,"San Benito, CA",US,2.0,0.0,0.0,0
+2020-03-16,"San Benito, CA",US,2.0,0.0,0.0,0
+2020-03-10,"Madison, WI",US,1.0,0.0,-0.0,0
+2020-03-13,"Madison, WI",US,1.0,0.0,0.0,0
+2020-03-14,"Madison, WI",US,1.0,0.0,1.0,0
+2020-03-15,"Madison, WI",US,1.0,0.0,1.0,0
+2020-03-16,"Madison, WI",US,1.0,0.0,1.0,0
+2020-03-10,"San Diego County, CA",US,23.0,0.0,7.0,0
+2020-03-11,"San Diego County, CA",US,77.0,0.0,23.0,0
+2020-03-12,"San Diego County, CA",US,105.0,0.0,24.0,0
+2020-03-10,"San Antonio, TX",US,1.0,0.0,0.0,0
+2020-03-11,"San Antonio, TX",US,1.0,0.0,0.0,0
+2020-03-12,"San Antonio, TX",US,1.0,0.0,0.0,0
+2020-03-13,"San Antonio, TX",US,1.0,0.0,0.0,0
+2020-03-14,"San Antonio, TX",US,1.0,0.0,0.0,0
+2020-03-15,"San Antonio, TX",US,1.0,0.0,0.0,0
+2020-03-16,"San Antonio, TX",US,1.0,0.0,0.0,0
+2020-03-10,"Humboldt County, CA",US,1.0,0.0,0.0,0
+2020-03-11,"Humboldt County, CA",US,1.0,0.0,0.0,0
+2020-03-12,"Humboldt County, CA",US,1.0,0.0,0.0,0
+2020-03-13,"Humboldt County, CA",US,1.0,0.0,0.0,0
+2020-03-14,"Humboldt County, CA",US,1.0,0.0,0.0,0
+2020-03-15,"Humboldt County, CA",US,1.0,0.0,0.0,0
+2020-03-16,"Humboldt County, CA",US,1.0,0.0,0.0,0
+2020-03-12,"Sacramento County, CA",US,8.0,0.0,0.0,0
+2020-03-13,"Sacramento County, CA",US,20.0,0.0,0.0,0
+2020-03-13,Unassigned Location (From Diamond Princess),US,1905.0,0.0,0.0,0
+2020-03-14,Unassigned Location (From Diamond Princess),US,1412.0,0.0,0.0,0
+2020-03-13,"Snohomish County, WA",US,348.0,6.0,0.0,0
+2020-03-14,"Snohomish County, WA",US,396.0,11.0,0.0,0
+2020-03-08,"Providence, RI",US,11.0,0.0,0.0,0
+2020-03-09,"Providence, RI",US,13.0,0.0,0.0,0
+2020-03-10,"Providence, RI",US,0.0,0.0,0.0,0
+2020-03-12,"Providence, RI",US,7.0,0.0,0.0,0
+2020-03-13,"Providence, RI",US,14.0,0.0,0.0,0
+2020-03-14,"Cook County, IL",US,7.0,0.0,2.0,0
+2020-03-10,"Grafton County, NH",US,132.0,0.0,0.0,0
+2020-03-13,"Grafton County, NH",US,15.0,0.0,0.0,0
+2020-03-14,"Grafton County, NH",US,43.0,0.0,0.0,0
+2020-03-12,"Hillsborough, FL",US,21.0,0.0,0.0,0
+2020-03-15,"Hillsborough, FL",US,64.0,0.0,0.0,0
+2020-03-16,"Hillsborough, FL",US,38.0,0.0,0.0,0
+2020-03-16,"King County, WA",US,1070.0,51.0,1.0,0
+2020-03-06,"New York City, NY",US,76.0,0.0,0.0,0
+2020-03-07,"New York City, NY",US,24.0,0.0,0.0,0
+2020-03-09,"New York City, NY",US,89.0,0.0,0.0,0
+2020-03-10,"New York City, NY",US,106.0,0.0,0.0,0
+2020-03-10,"Placer County, CA",US,73.0,10.0,0.0,0
+2020-03-13,"Placer County, CA",US,115.0,0.0,0.0,0
+2020-03-14,"Placer County, CA",US,38.0,14.0,0.0,0
+2020-03-12,"San Mateo, CA",US,21.0,0.0,0.0,0
+2020-03-15,"San Mateo, CA",US,64.0,0.0,0.0,0
+2020-03-16,"San Mateo, CA",US,38.0,0.0,0.0,0
+2020-03-10,"Sarasota, FL",US,1.0,0.0,0.0,0
+2020-03-11,"Sarasota, FL",US,1.0,0.0,0.0,0
+2020-03-12,"Sarasota, FL",US,1.0,0.0,0.0,0
+2020-03-13,"Sarasota, FL",US,1.0,0.0,0.0,0
+2020-03-14,"Sarasota, FL",US,1.0,0.0,0.0,0
+2020-03-15,"Sarasota, FL",US,1.0,0.0,0.0,0
+2020-03-16,"Sarasota, FL",US,1.0,0.0,0.0,0
+2020-03-10,"Sonoma County, CA",US,70.0,0.0,0.0,0
+2020-03-11,"Sonoma County, CA",US,82.0,0.0,0.0,0
+2020-03-12,"Sonoma County, CA",US,14.0,0.0,0.0,0
+2020-03-14,"Sonoma County, CA",US,42.0,0.0,0.0,0
+2020-03-15,"Sonoma County, CA",US,32.0,0.0,0.0,0
+2020-03-10,"Umatilla, OR",US,1.0,0.0,0.0,0
+2020-03-11,"Umatilla, OR",US,1.0,0.0,0.0,0
+2020-03-12,"Umatilla, OR",US,1.0,0.0,0.0,0
+2020-03-13,"Umatilla, OR",US,1.0,0.0,0.0,0
+2020-03-14,"Umatilla, OR",US,1.0,0.0,0.0,0
+2020-03-15,"Umatilla, OR",US,1.0,0.0,0.0,0
+2020-03-16,"Umatilla, OR",US,1.0,0.0,0.0,0
+2020-03-09," Norfolk County, MA",US,113.0,0.0,0.0,0
+2020-03-10," Norfolk County, MA",US,8.0,0.0,0.0,0
+2020-03-13," Norfolk County, MA",US,83.0,0.0,0.0,0
+2020-03-14," Norfolk County, MA",US,34.0,0.0,0.0,0
+2020-03-07,"Berkeley, CA",US,1.0,0.0,0.0,0
+2020-03-08,"Berkeley, CA",US,1.0,0.0,0.0,0
+2020-03-09,"Berkeley, CA",US,1.0,0.0,0.0,0
+2020-03-10,"Berkeley, CA",US,1.0,0.0,0.0,0
+2020-03-11,"Berkeley, CA",US,1.0,0.0,0.0,0
+2020-03-12,"Berkeley, CA",US,1.0,0.0,0.0,0
+2020-03-13,"Berkeley, CA",US,1.0,0.0,0.0,0
+2020-03-13,"Fulton County, GA",US,112.0,0.0,0.0,0
+2020-03-14,"Fulton County, GA",US,127.0,0.0,0.0,0
+2020-03-15,"Fulton County, GA",US,107.0,0.0,0.0,0
+2020-03-16,"Fulton County, GA",US,60.0,0.0,0.0,0
+2020-03-10,"Wake County, NC",US,1.0,0.0,0.0,0
+2020-03-11,"Wake County, NC",US,1.0,0.0,0.0,0
+2020-03-12,"Wake County, NC",US,1.0,0.0,0.0,0
+2020-03-13,"Wake County, NC",US,1.0,0.0,0.0,0
+2020-03-14,"Wake County, NC",US,1.0,0.0,0.0,0
+2020-03-15,"Wake County, NC",US,1.0,0.0,0.0,0
+2020-03-16,"Wake County, NC",US,1.0,0.0,0.0,0
+2020-03-10,"Washington County, OR",US,75.0,0.0,0.0,0
+2020-03-11,"Washington County, OR",US,71.0,0.0,0.0,0
+2020-03-14,"Washington County, OR",US,132.0,0.0,0.0,0
+2020-03-15,"Westchester County, NY",US,87.0,0.0,0.0,0
+2020-03-10,"Contra Costa County, CA",US,17.0,0.0,0.0,0
+2020-03-11,"Contra Costa County, CA",US,131.0,0.0,0.0,0
+2020-03-12,"Contra Costa County, CA",US,161.0,0.0,0.0,0
+2020-03-13,"Contra Costa County, CA",US,68.0,0.0,0.0,0
+2020-03-15,"Contra Costa County, CA",US,20.0,0.0,0.0,0
+2020-03-16,"Contra Costa County, CA",US,29.0,0.0,0.0,0
+2020-03-10,"Orange County, CA",US,27.0,0.0,0.0,0
+2020-03-11,"Orange County, CA",US,54.0,0.0,0.0,0
+2020-03-12,"Orange County, CA",US,11.0,0.0,0.0,0
+2020-03-14,"Orange County, CA",US,1.0,0.0,0.0,0
+2020-03-15,"Orange County, CA",US,22.0,0.0,0.0,0
+2020-03-16,"Orange County, CA",US,10.0,0.0,0.0,0
+2020-03-10,"Bergen County, NJ",US,83.0,0.0,0.0,0
+2020-03-11,"Bergen County, NJ",US,27.0,0.0,0.0,0
+2020-03-12,"Bergen County, NJ",US,3.0,0.0,0.0,0
+2020-03-13,"Bergen County, NJ",US,20.0,0.0,0.0,0
+2020-03-14,"Bergen County, NJ",US,54.0,0.0,0.0,0
+2020-03-15,"Bergen County, NJ",US,95.0,0.0,0.0,0
+2020-03-16,"Bergen County, NJ",US,53.0,0.0,0.0,0
+2020-03-12,"Clark County, NV",US,5.0,0.0,0.0,0
+2020-03-15,"Clark County, NV",US,8.0,0.0,0.0,0
+2020-03-16,"Clark County, NV",US,43.0,0.0,0.0,0
+2020-03-11,"Fort Bend County, TX",US,149.0,0.0,0.0,0
+2020-03-12,"Fort Bend County, TX",US,1.0,0.0,0.0,0
+2020-03-16,"Fort Bend County, TX",US,58.0,0.0,0.0,0
+2020-03-10,"Grant County, WA",US,1.0,2.0,0.0,0
+2020-03-14,"Grant County, WA",US,1.0,12.0,0.0,0
+2020-03-15,"Grant County, WA",US,1.0,11.0,0.0,0
+2020-03-16,"Grant County, WA",US,1.0,5.0,0.0,0
+2020-03-11,"San Francisco County, CA",US,137.0,0.0,0.0,0
+2020-03-16,"San Francisco County, CA",US,129.0,0.0,0.0,0
+2020-03-11,"Santa Rosa County, FL",US,1.0,6.0,0.0,0
+2020-03-12,"Santa Rosa County, FL",US,1.0,38.0,0.0,0
+2020-03-15,"Santa Rosa County, FL",US,1.0,14.0,0.0,0
+2020-03-16,"Santa Rosa County, FL",US,1.0,12.0,0.0,0
+2020-03-10,"Williamson County, TN",US,1.0,0.0,0.0,0
+2020-03-11,"Williamson County, TN",US,1.0,0.0,0.0,0
+2020-03-12,"Williamson County, TN",US,1.0,0.0,0.0,0
+2020-03-13,"Williamson County, TN",US,1.0,0.0,0.0,0
+2020-03-14,"Williamson County, TN",US,1.0,0.0,0.0,0
+2020-03-15,"Williamson County, TN",US,1.0,0.0,0.0,0
+2020-03-16,"Williamson County, TN",US,1.0,0.0,0.0,0
+2020-03-10,"Chatham County, NC",US,1.0,0.0,0.0,0
+2020-03-11,"Chatham County, NC",US,1.0,0.0,0.0,0
+2020-03-12,"Chatham County, NC",US,1.0,0.0,0.0,0
+2020-03-13,"Chatham County, NC",US,1.0,0.0,0.0,0
+2020-03-14,"Chatham County, NC",US,1.0,0.0,0.0,0
+2020-03-15,"Chatham County, NC",US,1.0,0.0,0.0,0
+2020-03-16,"Chatham County, NC",US,1.0,0.0,0.0,0
+2020-03-10,"Delaware County, PA",US,1.0,0.0,0.0,0
+2020-03-11,"Delaware County, PA",US,1.0,0.0,0.0,0
+2020-03-12,"Delaware County, PA",US,1.0,0.0,0.0,0
+2020-03-13,"Delaware County, PA",US,1.0,0.0,0.0,0
+2020-03-14,"Delaware County, PA",US,1.0,0.0,0.0,0
+2020-03-15,"Delaware County, PA",US,1.0,0.0,0.0,0
+2020-03-16,"Delaware County, PA",US,1.0,0.0,0.0,0
+2020-03-10,"Denver County, CO",US,2.0,0.0,0.0,0
+2020-03-11,"Denver County, CO",US,2.0,0.0,0.0,0
+2020-03-12,"Denver County, CO",US,2.0,0.0,0.0,0
+2020-03-13,"Denver County, CO",US,2.0,0.0,0.0,0
+2020-03-14,"Denver County, CO",US,2.0,0.0,0.0,0
+2020-03-15,"Denver County, CO",US,2.0,0.0,0.0,0
+2020-03-16,"Denver County, CO",US,2.0,0.0,0.0,0
+2020-03-10,"Douglas County, NE",US,4.0,0.0,0.0,0
+2020-03-11,"Douglas County, NE",US,41.0,0.0,0.0,0
+2020-03-12,"Douglas County, NE",US,115.0,0.0,0.0,0
+2020-03-13,"Douglas County, NE",US,13.0,0.0,0.0,0
+2020-03-14,"Douglas County, NE",US,33.0,0.0,0.0,0
+2020-03-15,"Douglas County, NE",US,34.0,0.0,0.0,0
+2020-03-16,"Douglas County, NE",US,15.0,0.0,0.0,0
+2020-03-10,"Fayette County, KY",US,1.0,0.0,0.0,0
+2020-03-11,"Fayette County, KY",US,1.0,0.0,0.0,0
+2020-03-12,"Fayette County, KY",US,1.0,0.0,0.0,0
+2020-03-13,"Fayette County, KY",US,1.0,0.0,0.0,0
+2020-03-14,"Fayette County, KY",US,1.0,0.0,0.0,0
+2020-03-15,"Fayette County, KY",US,1.0,0.0,0.0,0
+2020-03-16,"Fayette County, KY",US,1.0,0.0,0.0,0
+2020-03-09,"Floyd County, GA",US,2.0,0.0,0.0,0
+2020-03-10,"Floyd County, GA",US,9.0,0.0,0.0,0
+2020-03-11,"Floyd County, GA",US,12.0,0.0,0.0,0
+2020-03-12,"Floyd County, GA",US,7.0,0.0,0.0,0
+2020-03-13,"Floyd County, GA",US,8.0,0.0,0.0,0
+2020-03-14,"Floyd County, GA",US,6.0,0.0,0.0,0
+2020-03-10,"Marion County, IN",US,1.0,0.0,0.0,0
+2020-03-11,"Marion County, IN",US,1.0,0.0,0.0,0
+2020-03-12,"Marion County, IN",US,1.0,0.0,0.0,0
+2020-03-13,"Marion County, IN",US,1.0,0.0,0.0,0
+2020-03-14,"Marion County, IN",US,1.0,0.0,0.0,0
+2020-03-15,"Marion County, IN",US,1.0,0.0,0.0,0
+2020-03-16,"Marion County, IN",US,1.0,0.0,0.0,0
+2020-03-13,"Middlesex County, MA",US,15.0,0.0,0.0,0
+2020-03-14,"Middlesex County, MA",US,13.0,0.0,0.0,0
+2020-03-16,"Middlesex County, MA",US,2.0,0.0,0.0,0
+2020-03-11,"Montgomery County, MD",US,6.0,0.0,0.0,0
+2020-03-12,"Montgomery County, MD",US,43.0,0.0,0.0,0
+2020-03-13,"Montgomery County, MD",US,9.0,0.0,0.0,0
+2020-03-16,"Montgomery County, MD",US,90.0,0.0,0.0,0
+2020-03-10,"Nassau County, NY",US,441.0,0.0,0.0,0
+2020-03-14,"Nassau County, NY",US,136.0,0.0,0.0,0
+2020-03-15,"Nassau County, NY",US,383.0,0.0,0.0,0
+2020-03-16,"Nassau County, NY",US,198.0,0.0,0.0,0
+2020-03-12,"New York County, NY",US,151.0,0.0,0.0,0
+2020-03-13,"New York County, NY",US,162.0,0.0,0.0,0
+2020-03-14,"New York County, NY",US,127.0,0.0,0.0,0
+2020-03-15,"New York County, NY",US,99.0,0.0,0.0,0
+2020-03-16,"New York County, NY",US,10.0,0.0,0.0,0
+2020-03-10,"Ramsey County, MN",US,1.0,0.0,0.0,0
+2020-03-11,"Ramsey County, MN",US,1.0,0.0,0.0,0
+2020-03-12,"Ramsey County, MN",US,1.0,0.0,0.0,0
+2020-03-13,"Ramsey County, MN",US,1.0,0.0,0.0,0
+2020-03-14,"Ramsey County, MN",US,1.0,0.0,0.0,0
+2020-03-15,"Ramsey County, MN",US,1.0,0.0,0.0,0
+2020-03-16,"Ramsey County, MN",US,1.0,0.0,0.0,0
+2020-03-10,"Suffolk County, MA",US,80.0,0.0,1.0,0
+2020-03-10,"Summit County, CO",US,2.0,0.0,0.0,0
+2020-03-11,"Summit County, CO",US,2.0,0.0,0.0,0
+2020-03-12,"Summit County, CO",US,2.0,0.0,0.0,0
+2020-03-13,"Summit County, CO",US,2.0,0.0,0.0,0
+2020-03-14,"Summit County, CO",US,2.0,0.0,0.0,0
+2020-03-15,"Summit County, CO",US,2.0,0.0,0.0,0
+2020-03-16,"Summit County, CO",US,2.0,0.0,0.0,0
+2020-03-10,"Unassigned Location, WA",US,5.0,0.0,0.0,0
+2020-03-11,"Unassigned Location, WA",US,5.0,0.0,0.0,0
+2020-03-12,"Unassigned Location, WA",US,5.0,0.0,0.0,0
+2020-03-13,"Unassigned Location, WA",US,5.0,0.0,0.0,0
+2020-03-14,"Unassigned Location, WA",US,5.0,0.0,0.0,0
+2020-03-15,"Unassigned Location, WA",US,5.0,0.0,0.0,0
+2020-03-16,"Unassigned Location, WA",US,5.0,0.0,0.0,0
+2020-03-10,"Washoe County, NV",US,8.0,0.0,0.0,0
+2020-03-11,"Washoe County, NV",US,4.0,0.0,0.0,0
+2020-03-14,"Washoe County, NV",US,14.0,0.0,0.0,0
+2020-03-10,"Wayne County, PA",US,1.0,0.0,0.0,0
+2020-03-11,"Wayne County, PA",US,1.0,0.0,0.0,0
+2020-03-12,"Wayne County, PA",US,1.0,0.0,0.0,0
+2020-03-13,"Wayne County, PA",US,1.0,0.0,0.0,0
+2020-03-14,"Wayne County, PA",US,1.0,0.0,0.0,0
+2020-03-15,"Wayne County, PA",US,1.0,0.0,0.0,0
+2020-03-16,"Wayne County, PA",US,1.0,0.0,0.0,0
+2020-03-10,"Yolo County, CA",US,1.0,0.0,0.0,0
+2020-03-11,"Yolo County, CA",US,1.0,0.0,0.0,0
+2020-03-12,"Yolo County, CA",US,1.0,0.0,0.0,0
+2020-03-13,"Yolo County, CA",US,1.0,0.0,0.0,0
+2020-03-14,"Yolo County, CA",US,1.0,0.0,0.0,0
+2020-03-15,"Yolo County, CA",US,1.0,0.0,0.0,0
+2020-03-16,"Yolo County, CA",US,1.0,0.0,0.0,0
+2020-03-10,"Alameda County, CA",US,2.0,0.0,0.0,0
+2020-03-11,"Alameda County, CA",US,2.0,0.0,0.0,0
+2020-03-12,"Alameda County, CA",US,2.0,0.0,0.0,0
+2020-03-13,"Alameda County, CA",US,2.0,0.0,0.0,0
+2020-03-14,"Alameda County, CA",US,2.0,0.0,0.0,0
+2020-03-15,"Alameda County, CA",US,2.0,0.0,0.0,0
+2020-03-16,"Alameda County, CA",US,2.0,0.0,0.0,0
+2020-03-10,"Broward County, FL",US,39.0,0.0,0.0,0
+2020-03-12,"Broward County, FL",US,-0.0,0.0,0.0,0
+2020-03-13,"Broward County, FL",US,14.0,0.0,0.0,0
+2020-03-10,"Charleston County, SC",US,1.0,0.0,0.0,0
+2020-03-11,"Charleston County, SC",US,1.0,0.0,0.0,0
+2020-03-12,"Charleston County, SC",US,1.0,0.0,0.0,0
+2020-03-13,"Charleston County, SC",US,1.0,0.0,0.0,0
+2020-03-14,"Charleston County, SC",US,1.0,0.0,0.0,0
+2020-03-15,"Charleston County, SC",US,1.0,0.0,0.0,0
+2020-03-16,"Charleston County, SC",US,1.0,0.0,0.0,0
+2020-03-10,"Clark County, WA",US,1.0,0.0,0.0,0
+2020-03-11,"Clark County, WA",US,1.0,0.0,0.0,0
+2020-03-12,"Clark County, WA",US,1.0,0.0,0.0,0
+2020-03-13,"Clark County, WA",US,1.0,0.0,0.0,0
+2020-03-14,"Clark County, WA",US,1.0,0.0,0.0,0
+2020-03-15,"Clark County, WA",US,1.0,0.0,0.0,0
+2020-03-16,"Clark County, WA",US,1.0,0.0,0.0,0
+2020-03-10,"Cobb County, GA",US,6.0,0.0,0.0,0
+2020-03-13,"Cobb County, GA",US,-0.0,0.0,0.0,0
+2020-03-16,"Cobb County, GA",US,11.0,0.0,0.0,0
+2020-03-10,"Davis County, UT",US,1.0,0.0,0.0,0
+2020-03-11,"Davis County, UT",US,1.0,0.0,0.0,0
+2020-03-12,"Davis County, UT",US,1.0,0.0,0.0,0
+2020-03-13,"Davis County, UT",US,1.0,0.0,0.0,0
+2020-03-14,"Davis County, UT",US,1.0,0.0,0.0,0
+2020-03-15,"Davis County, UT",US,1.0,0.0,0.0,0
+2020-03-16,"Davis County, UT",US,1.0,0.0,0.0,0
+2020-03-10,"Douglas County, CO",US,3.0,0.0,0.0,0
+2020-03-11,"Douglas County, CO",US,3.0,0.0,0.0,0
+2020-03-12,"Douglas County, CO",US,3.0,0.0,0.0,0
+2020-03-13,"Douglas County, CO",US,3.0,0.0,0.0,0
+2020-03-14,"Douglas County, CO",US,3.0,0.0,0.0,0
+2020-03-15,"Douglas County, CO",US,3.0,0.0,0.0,0
+2020-03-16,"Douglas County, CO",US,3.0,0.0,0.0,0
+2020-03-10,"El Paso County, CO",US,1.0,0.0,0.0,0
+2020-03-11,"El Paso County, CO",US,1.0,0.0,0.0,0
+2020-03-12,"El Paso County, CO",US,1.0,0.0,0.0,0
+2020-03-13,"El Paso County, CO",US,1.0,0.0,0.0,0
+2020-03-14,"El Paso County, CO",US,1.0,0.0,0.0,0
+2020-03-15,"El Paso County, CO",US,1.0,0.0,0.0,0
+2020-03-16,"El Paso County, CO",US,1.0,0.0,0.0,0
+2020-03-14,"Fairfield County, CT",US,16.0,0.0,0.0,0
+2020-03-10,Grand Princess Cruise Ship,US,21.0,0.0,0.0,0
+2020-03-11,Grand Princess Cruise Ship,US,21.0,0.0,0.0,0
+2020-03-12,Grand Princess Cruise Ship,US,21.0,0.0,0.0,0
+2020-03-13,Grand Princess Cruise Ship,US,21.0,0.0,0.0,0
+2020-03-14,Grand Princess Cruise Ship,US,21.0,0.0,0.0,0
+2020-03-15,Grand Princess Cruise Ship,US,21.0,0.0,0.0,0
+2020-03-16,Grand Princess Cruise Ship,US,21.0,0.0,0.0,0
+2020-03-10,"Honolulu County, HI",US,19.0,0.0,0.0,0
+2020-03-11,"Honolulu County, HI",US,5.0,0.0,0.0,0
+2020-03-14,"Honolulu County, HI",US,0.0,0.0,0.0,0
+2020-03-10,"Jackson County, OR ",US,20.0,0.0,0.0,0
+2020-03-10,"Jefferson County, WA",US,1.0,0.0,0.0,0
+2020-03-11,"Jefferson County, WA",US,1.0,0.0,0.0,0
+2020-03-12,"Jefferson County, WA",US,1.0,0.0,0.0,0
+2020-03-13,"Jefferson County, WA",US,1.0,0.0,0.0,0
+2020-03-14,"Jefferson County, WA",US,1.0,0.0,0.0,0
+2020-03-15,"Jefferson County, WA",US,1.0,0.0,0.0,0
+2020-03-16,"Jefferson County, WA",US,1.0,0.0,0.0,0
+2020-03-10,"Kershaw County, SC",US,58.0,0.0,0.0,0
+2020-03-13,"Kershaw County, SC",US,24.0,0.0,0.0,0
+2020-03-16,"Kershaw County, SC",US,9.0,0.0,0.0,0
+2020-03-10,"Klamath County, OR",US,1.0,0.0,0.0,0
+2020-03-11,"Klamath County, OR",US,1.0,0.0,0.0,0
+2020-03-12,"Klamath County, OR",US,1.0,0.0,0.0,0
+2020-03-13,"Klamath County, OR",US,1.0,0.0,0.0,0
+2020-03-14,"Klamath County, OR",US,1.0,0.0,0.0,0
+2020-03-15,"Klamath County, OR",US,1.0,0.0,0.0,0
+2020-03-16,"Klamath County, OR",US,1.0,0.0,0.0,0
+2020-03-11,"Lee County, FL",US,2.0,18.0,0.0,0
+2020-03-13,"Lee County, FL",US,2.0,12.0,0.0,0
+2020-03-10,"Madera County, CA",US,1.0,0.0,0.0,0
+2020-03-11,"Madera County, CA",US,1.0,0.0,0.0,0
+2020-03-12,"Madera County, CA",US,1.0,0.0,0.0,0
+2020-03-13,"Madera County, CA",US,1.0,0.0,0.0,0
+2020-03-14,"Madera County, CA",US,1.0,0.0,0.0,0
+2020-03-15,"Madera County, CA",US,1.0,0.0,0.0,0
+2020-03-16,"Madera County, CA",US,1.0,0.0,0.0,0
+2020-03-10,"Montgomery County, TX",US,0.0,0.0,0.0,0
+2020-03-11,"Montgomery County, TX",US,0.0,0.0,0.0,0
+2020-03-12,"Montgomery County, TX",US,0.0,0.0,0.0,0
+2020-03-13,"Montgomery County, TX",US,0.0,0.0,0.0,0
+2020-03-14,"Montgomery County, TX",US,0.0,0.0,0.0,0
+2020-03-15,"Montgomery County, TX",US,0.0,0.0,0.0,0
+2020-03-16,"Montgomery County, TX",US,0.0,0.0,0.0,0
+2020-03-11,"Pierce County, WA",US,7.0,0.0,0.0,0
+2020-03-12,"Pierce County, WA",US,46.0,0.0,0.0,0
+2020-03-13,"Pierce County, WA",US,58.0,0.0,0.0,0
+2020-03-14,"Pierce County, WA",US,6.0,0.0,0.0,0
+2020-03-15,"Pierce County, WA",US,9.0,0.0,0.0,0
+2020-03-16,"Pierce County, WA",US,35.0,0.0,0.0,0
+2020-03-10,"Pinal County, AZ",US,2.0,0.0,0.0,0
+2020-03-11,"Pinal County, AZ",US,2.0,0.0,0.0,0
+2020-03-12,"Pinal County, AZ",US,2.0,0.0,0.0,0
+2020-03-13,"Pinal County, AZ",US,2.0,0.0,0.0,0
+2020-03-14,"Pinal County, AZ",US,2.0,0.0,0.0,0
+2020-03-15,"Pinal County, AZ",US,2.0,0.0,0.0,0
+2020-03-16,"Pinal County, AZ",US,2.0,0.0,0.0,0
+2020-03-10,"Plymouth County, MA",US,1.0,0.0,0.0,0
+2020-03-11,"Plymouth County, MA",US,1.0,0.0,0.0,0
+2020-03-12,"Plymouth County, MA",US,1.0,0.0,0.0,0
+2020-03-13,"Plymouth County, MA",US,1.0,0.0,0.0,0
+2020-03-14,"Plymouth County, MA",US,1.0,0.0,0.0,0
+2020-03-15,"Plymouth County, MA",US,1.0,0.0,0.0,0
+2020-03-16,"Plymouth County, MA",US,1.0,0.0,0.0,0
+2020-03-10,"Providence County, RI",US,3.0,0.0,0.0,0
+2020-03-11,"Providence County, RI",US,3.0,0.0,0.0,0
+2020-03-12,"Providence County, RI",US,3.0,0.0,0.0,0
+2020-03-13,"Providence County, RI",US,3.0,0.0,0.0,0
+2020-03-14,"Providence County, RI",US,3.0,0.0,0.0,0
+2020-03-15,"Providence County, RI",US,3.0,0.0,0.0,0
+2020-03-16,"Providence County, RI",US,3.0,0.0,0.0,0
+2020-03-10,"Rockland County, NY",US,38.0,0.0,0.0,0
+2020-03-11,"Rockland County, NY",US,9.0,0.0,0.0,0
+2020-03-14,"Rockland County, NY",US,1.0,0.0,0.0,0
+2020-03-10,"Santa Clara County, CA",US,124.0,0.0,1.0,0
+2020-03-11,"Santa Clara County, CA",US,349.0,0.0,1.0,0
+2020-03-12,"Santa Clara County, CA",US,778.0,0.0,1.0,0
+2020-03-13,"Santa Clara County, CA",US,437.0,0.0,1.0,0
+2020-03-15,"Santa Clara County, CA",US,0.0,0.0,1.0,0
+2020-03-16,"Santa Clara County, CA",US,124.0,0.0,1.0,0
+2020-03-10,"Saratoga County, NY",US,2.0,0.0,0.0,0
+2020-03-11,"Saratoga County, NY",US,2.0,0.0,0.0,0
+2020-03-12,"Saratoga County, NY",US,2.0,0.0,0.0,0
+2020-03-13,"Saratoga County, NY",US,2.0,0.0,0.0,0
+2020-03-14,"Saratoga County, NY",US,2.0,0.0,0.0,0
+2020-03-15,"Saratoga County, NY",US,2.0,0.0,0.0,0
+2020-03-16,"Saratoga County, NY",US,2.0,0.0,0.0,0
+2020-03-10,"Tulsa County, OK",US,1.0,0.0,0.0,0
+2020-03-11,"Tulsa County, OK",US,1.0,0.0,0.0,0
+2020-03-12,"Tulsa County, OK",US,1.0,0.0,0.0,0
+2020-03-13,"Tulsa County, OK",US,1.0,0.0,0.0,0
+2020-03-14,"Tulsa County, OK",US,1.0,0.0,0.0,0
+2020-03-15,"Tulsa County, OK",US,1.0,0.0,0.0,0
+2020-03-16,"Tulsa County, OK",US,1.0,0.0,0.0,0
+2020-03-10,"Berkshire County, MA",US,1.0,0.0,0.0,0
+2020-03-11,"Berkshire County, MA",US,1.0,0.0,0.0,0
+2020-03-12,"Berkshire County, MA",US,1.0,0.0,0.0,0
+2020-03-13,"Berkshire County, MA",US,1.0,0.0,0.0,0
+2020-03-14,"Berkshire County, MA",US,1.0,0.0,0.0,0
+2020-03-15,"Berkshire County, MA",US,1.0,0.0,0.0,0
+2020-03-16,"Berkshire County, MA",US,1.0,0.0,0.0,0
+2020-03-10,"Davidson County, TN",US,1.0,0.0,0.0,0
+2020-03-11,"Davidson County, TN",US,1.0,0.0,0.0,0
+2020-03-12,"Davidson County, TN",US,1.0,0.0,0.0,0
+2020-03-13,"Davidson County, TN",US,1.0,0.0,0.0,0
+2020-03-14,"Davidson County, TN",US,1.0,0.0,0.0,0
+2020-03-15,"Davidson County, TN",US,1.0,0.0,0.0,0
+2020-03-16,"Davidson County, TN",US,1.0,0.0,0.0,0
+2020-03-10,"Douglas County, OR",US,1.0,0.0,0.0,0
+2020-03-11,"Douglas County, OR",US,1.0,0.0,0.0,0
+2020-03-12,"Douglas County, OR",US,1.0,0.0,0.0,0
+2020-03-13,"Douglas County, OR",US,1.0,0.0,0.0,0
+2020-03-14,"Douglas County, OR",US,1.0,0.0,0.0,0
+2020-03-15,"Douglas County, OR",US,1.0,0.0,0.0,0
+2020-03-16,"Douglas County, OR",US,1.0,0.0,0.0,0
+2020-03-10,"Fairfax County, VA",US,2.0,0.0,0.0,0
+2020-03-11,"Fairfax County, VA",US,2.0,0.0,0.0,0
+2020-03-12,"Fairfax County, VA",US,2.0,0.0,0.0,0
+2020-03-13,"Fairfax County, VA",US,2.0,0.0,0.0,0
+2020-03-14,"Fairfax County, VA",US,2.0,0.0,0.0,0
+2020-03-15,"Fairfax County, VA",US,2.0,0.0,0.0,0
+2020-03-16,"Fairfax County, VA",US,2.0,0.0,0.0,0
+2020-03-10,"Fresno County, CA",US,1.0,0.0,0.0,0
+2020-03-11,"Fresno County, CA",US,1.0,0.0,0.0,0
+2020-03-12,"Fresno County, CA",US,1.0,0.0,0.0,0
+2020-03-13,"Fresno County, CA",US,1.0,0.0,0.0,0
+2020-03-14,"Fresno County, CA",US,1.0,0.0,0.0,0
+2020-03-15,"Fresno County, CA",US,1.0,0.0,0.0,0
+2020-03-16,"Fresno County, CA",US,1.0,0.0,0.0,0
+2020-03-10,"Harford County, MD",US,1.0,0.0,0.0,0
+2020-03-11,"Harford County, MD",US,1.0,0.0,0.0,0
+2020-03-12,"Harford County, MD",US,1.0,0.0,0.0,0
+2020-03-13,"Harford County, MD",US,1.0,0.0,0.0,0
+2020-03-14,"Harford County, MD",US,1.0,0.0,0.0,0
+2020-03-15,"Harford County, MD",US,1.0,0.0,0.0,0
+2020-03-16,"Harford County, MD",US,1.0,0.0,0.0,0
+2020-03-10,"Hendricks County, IN",US,5.0,0.0,0.0,0
+2020-03-11,"Hendricks County, IN",US,39.0,0.0,0.0,0
+2020-03-12,"Hendricks County, IN",US,30.0,0.0,0.0,0
+2020-03-10,"Hudson County, NJ",US,1.0,0.0,0.0,0
+2020-03-11,"Hudson County, NJ",US,1.0,0.0,0.0,0
+2020-03-12,"Hudson County, NJ",US,1.0,0.0,0.0,0
+2020-03-13,"Hudson County, NJ",US,1.0,0.0,0.0,0
+2020-03-14,"Hudson County, NJ",US,1.0,0.0,0.0,0
+2020-03-15,"Hudson County, NJ",US,1.0,0.0,0.0,0
+2020-03-16,"Hudson County, NJ",US,1.0,0.0,0.0,0
+2020-03-10,"Johnson County, KS",US,1.0,0.0,0.0,0
+2020-03-11,"Johnson County, KS",US,1.0,0.0,0.0,0
+2020-03-12,"Johnson County, KS",US,1.0,0.0,0.0,0
+2020-03-13,"Johnson County, KS",US,1.0,0.0,0.0,0
+2020-03-14,"Johnson County, KS",US,1.0,0.0,0.0,0
+2020-03-15,"Johnson County, KS",US,1.0,0.0,0.0,0
+2020-03-16,"Johnson County, KS",US,1.0,0.0,0.0,0
+2020-03-10,"Kittitas County, WA",US,1.0,0.0,0.0,0
+2020-03-11,"Kittitas County, WA",US,1.0,0.0,0.0,0
+2020-03-12,"Kittitas County, WA",US,1.0,0.0,0.0,0
+2020-03-13,"Kittitas County, WA",US,1.0,0.0,0.0,0
+2020-03-14,"Kittitas County, WA",US,1.0,0.0,0.0,0
+2020-03-15,"Kittitas County, WA",US,1.0,0.0,0.0,0
+2020-03-16,"Kittitas County, WA",US,1.0,0.0,0.0,0
+2020-03-10,"Manatee County, FL",US,5.0,0.0,0.0,0
+2020-03-11,"Manatee County, FL",US,39.0,0.0,0.0,0
+2020-03-12,"Manatee County, FL",US,30.0,0.0,0.0,0
+2020-03-10,"Marion County, OR",US,1.0,0.0,0.0,0
+2020-03-11,"Marion County, OR",US,1.0,0.0,0.0,0
+2020-03-12,"Marion County, OR",US,1.0,0.0,0.0,0
+2020-03-13,"Marion County, OR",US,1.0,0.0,0.0,0
+2020-03-14,"Marion County, OR",US,1.0,0.0,0.0,0
+2020-03-15,"Marion County, OR",US,1.0,0.0,0.0,0
+2020-03-16,"Marion County, OR",US,1.0,0.0,0.0,0
+2020-03-10,"Montgomery County, PA",US,3.0,0.0,0.0,0
+2020-03-12,"Montgomery County, PA",US,78.0,0.0,0.0,0
+2020-03-13,"Montgomery County, PA",US,82.0,0.0,0.0,0
+2020-03-14,"Montgomery County, PA",US,105.0,0.0,0.0,0
+2020-03-15,"Montgomery County, PA",US,83.0,0.0,0.0,0
+2020-03-16,"Montgomery County, PA",US,123.0,0.0,0.0,0
+2020-03-10,"Norfolk County, MA",US,6.0,0.0,0.0,0
+2020-03-11,"Norfolk County, MA",US,6.0,0.0,0.0,0
+2020-03-12,"Norfolk County, MA",US,6.0,0.0,0.0,0
+2020-03-13,"Norfolk County, MA",US,6.0,0.0,0.0,0
+2020-03-14,"Norfolk County, MA",US,6.0,0.0,0.0,0
+2020-03-15,"Norfolk County, MA",US,6.0,0.0,0.0,0
+2020-03-16,"Norfolk County, MA",US,6.0,0.0,0.0,0
+2020-03-10,"Okaloosa County, FL",US,1.0,0.0,0.0,0
+2020-03-11,"Okaloosa County, FL",US,1.0,0.0,0.0,0
+2020-03-12,"Okaloosa County, FL",US,1.0,0.0,0.0,0
+2020-03-13,"Okaloosa County, FL",US,1.0,0.0,0.0,0
+2020-03-14,"Okaloosa County, FL",US,1.0,0.0,0.0,0
+2020-03-15,"Okaloosa County, FL",US,1.0,0.0,0.0,0
+2020-03-16,"Okaloosa County, FL",US,1.0,0.0,0.0,0
+2020-03-10,"Polk County, GA",US,1.0,0.0,0.0,0
+2020-03-11,"Polk County, GA",US,1.0,0.0,0.0,0
+2020-03-12,"Polk County, GA",US,1.0,0.0,0.0,0
+2020-03-13,"Polk County, GA",US,1.0,0.0,0.0,0
+2020-03-14,"Polk County, GA",US,1.0,0.0,0.0,0
+2020-03-15,"Polk County, GA",US,1.0,0.0,0.0,0
+2020-03-16,"Polk County, GA",US,1.0,0.0,0.0,0
+2020-03-10,"Riverside County, CA",US,1.0,0.0,0.0,0
+2020-03-11,"Riverside County, CA",US,1.0,0.0,0.0,0
+2020-03-12,"Riverside County, CA",US,1.0,0.0,0.0,0
+2020-03-13,"Riverside County, CA",US,1.0,0.0,0.0,0
+2020-03-14,"Riverside County, CA",US,1.0,0.0,0.0,0
+2020-03-15,"Riverside County, CA",US,1.0,0.0,0.0,0
+2020-03-16,"Riverside County, CA",US,1.0,0.0,0.0,0
+2020-03-11,"Rockingham County, NH",US,2.0,0.0,0.0,0
+2020-03-13,"Rockingham County, NH",US,20.0,0.0,0.0,0
+2020-03-15,"Rockingham County, NH",US,0.0,0.0,0.0,0
+2020-03-10,"Shelby County, TN",US,1.0,0.0,0.0,0
+2020-03-11,"Shelby County, TN",US,1.0,0.0,0.0,0
+2020-03-12,"Shelby County, TN",US,1.0,0.0,0.0,0
+2020-03-13,"Shelby County, TN",US,1.0,0.0,0.0,0
+2020-03-14,"Shelby County, TN",US,1.0,0.0,0.0,0
+2020-03-15,"Shelby County, TN",US,1.0,0.0,0.0,0
+2020-03-16,"Shelby County, TN",US,1.0,0.0,0.0,0
+2020-03-10,"Spokane County, WA",US,1.0,0.0,0.0,0
+2020-03-11,"Spokane County, WA",US,1.0,0.0,0.0,0
+2020-03-12,"Spokane County, WA",US,1.0,0.0,0.0,0
+2020-03-13,"Spokane County, WA",US,1.0,0.0,0.0,0
+2020-03-14,"Spokane County, WA",US,1.0,0.0,0.0,0
+2020-03-15,"Spokane County, WA",US,1.0,0.0,0.0,0
+2020-03-16,"Spokane County, WA",US,1.0,0.0,0.0,0
+2020-03-10,"St. Louis County, MO",US,1.0,0.0,0.0,0
+2020-03-11,"St. Louis County, MO",US,1.0,0.0,0.0,0
+2020-03-12,"St. Louis County, MO",US,1.0,0.0,0.0,0
+2020-03-13,"St. Louis County, MO",US,1.0,0.0,0.0,0
+2020-03-14,"St. Louis County, MO",US,1.0,0.0,0.0,0
+2020-03-15,"St. Louis County, MO",US,1.0,0.0,0.0,0
+2020-03-16,"St. Louis County, MO",US,1.0,0.0,0.0,0
+2020-03-10,"Suffolk County, NY",US,1.0,0.0,0.0,0
+2020-03-11,"Suffolk County, NY",US,1.0,0.0,0.0,0
+2020-03-12,"Suffolk County, NY",US,1.0,0.0,0.0,0
+2020-03-13,"Suffolk County, NY",US,1.0,0.0,0.0,0
+2020-03-14,"Suffolk County, NY",US,1.0,0.0,0.0,0
+2020-03-15,"Suffolk County, NY",US,1.0,0.0,0.0,0
+2020-03-16,"Suffolk County, NY",US,1.0,0.0,0.0,0
+2020-03-10,"Ulster County, NY",US,1.0,0.0,0.0,0
+2020-03-11,"Ulster County, NY",US,1.0,0.0,0.0,0
+2020-03-12,"Ulster County, NY",US,1.0,0.0,0.0,0
+2020-03-13,"Ulster County, NY",US,1.0,0.0,0.0,0
+2020-03-14,"Ulster County, NY",US,1.0,0.0,0.0,0
+2020-03-15,"Ulster County, NY",US,1.0,0.0,0.0,0
+2020-03-16,"Ulster County, NY",US,1.0,0.0,0.0,0
+2020-03-10,"Unknown Location, MA",US,1.0,0.0,0.0,0
+2020-03-11,"Unknown Location, MA",US,1.0,0.0,0.0,0
+2020-03-12,"Unknown Location, MA",US,1.0,0.0,0.0,0
+2020-03-13,"Unknown Location, MA",US,1.0,0.0,0.0,0
+2020-03-14,"Unknown Location, MA",US,1.0,0.0,0.0,0
+2020-03-15,"Unknown Location, MA",US,1.0,0.0,0.0,0
+2020-03-16,"Unknown Location, MA",US,1.0,0.0,0.0,0
+2020-03-10,"Volusia County, FL",US,1.0,0.0,0.0,0
+2020-03-11,"Volusia County, FL",US,1.0,0.0,0.0,0
+2020-03-12,"Volusia County, FL",US,1.0,0.0,0.0,0
+2020-03-13,"Volusia County, FL",US,1.0,0.0,0.0,0
+2020-03-14,"Volusia County, FL",US,1.0,0.0,0.0,0
+2020-03-15,"Volusia County, FL",US,1.0,0.0,0.0,0
+2020-03-16,"Volusia County, FL",US,1.0,0.0,0.0,0
+2020-03-10,"Washington, D.C.",US,2.0,0.0,0.0,0
+2020-03-11,"Washington, D.C.",US,2.0,0.0,0.0,0
+2020-03-12,"Washington, D.C.",US,2.0,0.0,0.0,0
+2020-03-13,"Washington, D.C.",US,2.0,0.0,0.0,0
+2020-03-14,"Washington, D.C.",US,2.0,0.0,0.0,0
+2020-03-15,"Washington, D.C.",US,2.0,0.0,0.0,0
+2020-03-16,"Washington, D.C.",US,2.0,0.0,0.0,0
+2020-06-04,Alaska,US,494.0,10.0,0.0,0
+2020-06-05,Alaska,US,495.0,11.0,0.0,0
+2020-06-06,Alaska,US,504.0,11.0,0.0,0
+2020-06-07,Alaska,US,517.0,11.0,0.0,0
+2020-06-08,Alaska,US,524.0,11.0,0.0,0
+2020-06-09,Alaska,US,535.0,12.0,0.0,0
+2020-06-10,Alaska,US,542.0,12.0,0.0,0
+2020-06-04,Arkansas,US,7910.0,148.0,0.0,0
+2020-06-05,Arkansas,US,8018.0,152.0,0.0,0
+2020-06-06,Arkansas,US,8180.0,154.0,0.0,0
+2020-06-07,Arkansas,US,8302.0,154.0,0.0,0
+2020-06-08,Arkansas,US,8375.0,154.0,0.0,0
+2020-06-09,Arkansas,US,8542.0,157.0,0.0,0
+2020-06-10,Arkansas,US,8714.0,159.0,0.0,0
+2020-06-04,Colorado,US,27417.0,1496.0,0.0,0
+2020-06-05,Colorado,US,27947.0,1526.0,0.0,0
+2020-06-06,Colorado,US,28467.0,1538.0,0.0,0
+2020-06-07,Colorado,US,28915.0,1542.0,0.0,0
+2020-06-08,Colorado,US,28958.0,1530.0,0.0,0
+2020-06-09,Colorado,US,29143.0,1540.0,0.0,0
+2020-06-10,Colorado,US,29315.0,1553.0,0.0,0
+2020-06-04,Connecticut,US,43565.0,4062.0,0.0,0
+2020-06-05,Connecticut,US,43998.0,4101.0,0.0,0
+2020-06-06,Connecticut,US,44489.0,4118.0,0.0,0
+2020-06-07,Connecticut,US,44798.0,4136.0,0.0,0
+2020-06-08,Connecticut,US,45346.0,4178.0,0.0,0
+2020-06-09,Connecticut,US,45974.0,4194.0,0.0,0
+2020-06-10,Connecticut,US,46560.0,4234.0,0.0,0
+2020-06-04,Delaware,US,9753.0,381.0,0.0,0
+2020-06-05,Delaware,US,9873.0,385.0,0.0,0
+2020-06-06,Delaware,US,10011.0,390.0,0.0,0
+2020-06-07,Delaware,US,10157.0,394.0,0.0,0
+2020-06-08,Delaware,US,10280.0,397.0,0.0,0
+2020-06-09,Delaware,US,10358.0,402.0,0.0,0
+2020-06-10,Delaware,US,10456.0,406.0,0.0,0
+2020-06-04,Diamond Princess cruise ship,US,49.0,0.0,0.0,0
+2020-06-05,Diamond Princess cruise ship,US,49.0,0.0,0.0,0
+2020-06-06,Diamond Princess cruise ship,US,49.0,0.0,0.0,0
+2020-06-07,Diamond Princess cruise ship,US,49.0,0.0,0.0,0
+2020-06-08,Diamond Princess cruise ship,US,49.0,0.0,0.0,0
+2020-06-09,Diamond Princess cruise ship,US,49.0,0.0,0.0,0
+2020-06-10,Diamond Princess cruise ship,US,49.0,0.0,0.0,0
+2020-06-04,District of Columbia,US,9189.0,480.0,0.0,0
+2020-06-05,District of Columbia,US,9302.0,485.0,0.0,0
+2020-06-06,District of Columbia,US,9423.0,488.0,0.0,0
+2020-06-07,District of Columbia,US,9600.0,492.0,0.0,0
+2020-06-08,District of Columbia,US,9755.0,497.0,0.0,0
+2020-06-09,District of Columbia,US,9869.0,502.0,0.0,0
+2020-06-10,District of Columbia,US,9975.0,509.0,0.0,0
+2020-06-04,Florida,US,59567.0,2613.0,0.0,0
+2020-06-05,Florida,US,60382.0,2676.0,0.0,0
+2020-06-06,Florida,US,61169.0,2725.0,0.0,0
+2020-06-07,Florida,US,61948.0,2751.0,0.0,0
+2020-06-08,Florida,US,62676.0,2783.0,0.0,0
+2020-06-09,Florida,US,63292.0,2822.0,0.0,0
+2020-06-10,Florida,US,63804.0,2844.0,0.0,0
+2020-06-04,Georgia,US,49589.0,2176.0,0.0,0
+2020-06-05,Georgia,US,50146.0,2200.0,0.0,0
+2020-06-06,Georgia,US,50745.0,2206.0,0.0,0
+2020-06-07,Georgia,US,51579.0,2248.0,0.0,0
+2020-06-08,Georgia,US,52257.0,2297.0,0.0,0
+2020-06-09,Georgia,US,52919.0,2312.0,0.0,0
+2020-06-10,Georgia,US,53788.0,2337.0,0.0,0
+2020-06-04,Grand Princess,US,112.0,4.0,0.0,0
+2020-06-05,Grand Princess,US,108.0,5.0,0.0,0
+2020-06-06,Grand Princess,US,114.0,5.0,0.0,0
+2020-06-07,Grand Princess,US,114.0,4.0,0.0,0
+2020-06-08,Grand Princess,US,109.0,4.0,0.0,0
+2020-06-09,Grand Princess,US,108.0,4.0,0.0,0
+2020-06-10,Grand Princess,US,107.0,4.0,0.0,0
+2020-06-04,Hawaii,US,674.0,18.0,0.0,0
+2020-06-05,Hawaii,US,677.0,18.0,0.0,0
+2020-06-06,Hawaii,US,684.0,18.0,0.0,0
+2020-06-07,Hawaii,US,675.0,18.0,0.0,0
+2020-06-08,Hawaii,US,667.0,18.0,0.0,0
+2020-06-09,Hawaii,US,674.0,18.0,0.0,0
+2020-06-10,Hawaii,US,673.0,18.0,0.0,0
+2020-06-04,Idaho,US,3037.0,84.0,0.0,0
+2020-06-05,Idaho,US,3056.0,83.0,0.0,0
+2020-06-06,Idaho,US,3063.0,83.0,0.0,0
+2020-06-07,Idaho,US,3049.0,83.0,0.0,0
+2020-06-08,Idaho,US,3033.0,82.0,0.0,0
+2020-06-09,Idaho,US,3082.0,84.0,0.0,0
+2020-06-10,Idaho,US,3128.0,87.0,0.0,0
+2020-06-04,Indiana,US,36126.0,2244.0,0.0,0
+2020-06-05,Indiana,US,36725.0,2314.0,0.0,0
+2020-06-06,Indiana,US,37455.0,2367.0,0.0,0
+2020-06-07,Indiana,US,38029.0,2364.0,0.0,0
+2020-06-08,Indiana,US,38454.0,2369.0,0.0,0
+2020-06-09,Indiana,US,38817.0,2431.0,0.0,0
+2020-06-10,Indiana,US,39272.0,2480.0,0.0,0
+2020-06-04,Iowa,US,20643.0,589.0,0.0,0
+2020-06-05,Iowa,US,20908.0,609.0,0.0,0
+2020-06-06,Iowa,US,21274.0,623.0,0.0,0
+2020-06-07,Iowa,US,21653.0,632.0,0.0,0
+2020-06-08,Iowa,US,21865.0,642.0,0.0,0
+2020-06-09,Iowa,US,22054.0,655.0,0.0,0
+2020-06-10,Iowa,US,22355.0,669.0,0.0,0
+2020-06-04,Kansas,US,10295.0,231.0,0.0,0
+2020-06-05,Kansas,US,10493.0,234.0,0.0,0
+2020-06-06,Kansas,US,10620.0,233.0,0.0,0
+2020-06-07,Kansas,US,10746.0,233.0,0.0,0
+2020-06-08,Kansas,US,10921.0,238.0,0.0,0
+2020-06-09,Kansas,US,10957.0,240.0,0.0,0
+2020-06-10,Kansas,US,11044.0,241.0,0.0,0
+2020-06-04,Kentucky,US,10574.0,462.0,-0.0,0
+2020-06-05,Kentucky,US,10856.0,470.0,-0.0,0
+2020-06-06,Kentucky,US,11006.0,477.0,-0.0,0
+2020-06-07,Kentucky,US,11101.0,480.0,-0.0,0
+2020-06-08,Kentucky,US,11222.0,484.0,-0.0,0
+2020-06-09,Kentucky,US,11444.0,492.0,0.0,0
+2020-06-10,Kentucky,US,11597.0,499.0,-0.0,0
+2020-06-04,Louisiana,US,41809.0,2908.0,0.0,0
+2020-06-05,Louisiana,US,42010.0,2947.0,0.0,0
+2020-06-06,Louisiana,US,42420.0,2960.0,0.0,0
+2020-06-07,Louisiana,US,42479.0,2962.0,0.0,0
+2020-06-08,Louisiana,US,42672.0,2980.0,0.0,0
+2020-06-09,Louisiana,US,43080.0,3013.0,0.0,0
+2020-06-10,Louisiana,US,43447.0,3040.0,0.0,0
+2020-06-04,Maine,US,2480.0,96.0,0.0,0
+2020-06-05,Maine,US,2508.0,99.0,0.0,0
+2020-06-06,Maine,US,2561.0,100.0,0.0,0
+2020-06-07,Maine,US,2614.0,100.0,0.0,0
+2020-06-08,Maine,US,2635.0,101.0,0.0,0
+2020-06-09,Maine,US,2656.0,103.0,0.0,0
+2020-06-10,Maine,US,2692.0,104.0,0.0,0
+2020-06-04,Maryland,US,56162.0,2672.0,-0.0,0
+2020-06-05,Maryland,US,57319.0,2712.0,-0.0,0
+2020-06-06,Maryland,US,58474.0,2772.0,-0.0,0
+2020-06-07,Maryland,US,59555.0,2805.0,-0.0,0
+2020-06-08,Maryland,US,60663.0,2849.0,-0.0,0
+2020-06-09,Maryland,US,61684.0,2888.0,0.0,0
+2020-06-10,Maryland,US,62687.0,2920.0,-0.0,0
+2020-06-04,Massachusetts,US,102639.0,7245.0,-0.0,0
+2020-06-05,Massachusetts,US,104278.0,7349.0,-0.0,0
+2020-06-06,Massachusetts,US,105684.0,7460.0,-0.0,0
+2020-06-07,Massachusetts,US,106590.0,7580.0,-0.0,0
+2020-06-08,Massachusetts,US,107364.0,7646.0,-0.0,0
+2020-06-09,Massachusetts,US,108233.0,7721.0,-0.0,0
+2020-06-10,Massachusetts,US,109066.0,7840.0,0.0,0
+2020-06-04,Michigan,US,58816.0,5596.0,0.0,0
+2020-06-05,Michigan,US,59381.0,5645.0,0.0,0
+2020-06-06,Michigan,US,59815.0,5704.0,0.0,0
+2020-06-07,Michigan,US,60311.0,5742.0,0.0,0
+2020-06-08,Michigan,US,60646.0,5788.0,0.0,0
+2020-06-09,Michigan,US,60980.0,5863.0,0.0,0
+2020-06-10,Michigan,US,61604.0,5932.0,0.0,0
+2020-06-04,Minnesota,US,26440.0,1129.0,0.0,0
+2020-06-05,Minnesota,US,27135.0,1162.0,0.0,0
+2020-06-06,Minnesota,US,27834.0,1186.0,0.0,0
+2020-06-07,Minnesota,US,28506.0,1207.0,0.0,0
+2020-06-08,Minnesota,US,29174.0,1224.0,0.0,0
+2020-06-09,Minnesota,US,29749.0,1246.0,0.0,0
+2020-06-10,Minnesota,US,30304.0,1269.0,0.0,0
+2020-06-04,Mississippi,US,16718.0,799.0,0.0,0
+2020-06-05,Mississippi,US,17124.0,827.0,0.0,0
+2020-06-06,Mississippi,US,17456.0,854.0,0.0,0
+2020-06-07,Mississippi,US,17784.0,867.0,0.0,0
+2020-06-08,Mississippi,US,18090.0,875.0,0.0,0
+2020-06-09,Mississippi,US,18346.0,893.0,0.0,0
+2020-06-10,Mississippi,US,18569.0,905.0,0.0,0
+2020-06-04,Missouri,US,14444.0,805.0,0.0,0
+2020-06-05,Missouri,US,14631.0,826.0,0.0,0
+2020-06-06,Missouri,US,14940.0,847.0,0.0,0
+2020-06-07,Missouri,US,15145.0,862.0,0.0,0
+2020-06-08,Missouri,US,15261.0,884.0,0.0,0
+2020-06-09,Missouri,US,15427.0,899.0,0.0,0
+2020-06-10,Missouri,US,15649.0,906.0,0.0,0
+2020-06-04,Montana,US,527.0,18.0,0.0,0
+2020-06-05,Montana,US,530.0,18.0,0.0,0
+2020-06-06,Montana,US,534.0,18.0,0.0,0
+2020-06-07,Montana,US,538.0,17.0,0.0,0
+2020-06-08,Montana,US,541.0,18.0,0.0,0
+2020-06-09,Montana,US,546.0,19.0,0.0,0
+2020-06-10,Montana,US,547.0,19.0,0.0,0
+2020-06-04,Nebraska,US,15252.0,180.0,0.0,0
+2020-06-05,Nebraska,US,15599.0,182.0,0.0,0
+2020-06-06,Nebraska,US,15971.0,188.0,0.0,0
+2020-06-07,Nebraska,US,16304.0,192.0,0.0,0
+2020-06-08,Nebraska,US,16581.0,191.0,0.0,0
+2020-06-09,Nebraska,US,16669.0,191.0,0.0,0
+2020-06-10,Nebraska,US,16832.0,196.0,0.0,0
+2020-06-04,Nevada,US,9038.0,440.0,0.0,0
+2020-06-05,Nevada,US,9175.0,443.0,0.0,0
+2020-06-06,Nevada,US,9227.0,453.0,0.0,0
+2020-06-07,Nevada,US,9348.0,457.0,0.0,0
+2020-06-08,Nevada,US,9474.0,459.0,0.0,0
+2020-06-09,Nevada,US,9573.0,467.0,0.0,0
+2020-06-10,Nevada,US,9657.0,476.0,0.0,0
+2020-06-04,New Hampshire,US,4940.0,269.0,0.0,0
+2020-06-05,New Hampshire,US,5056.0,274.0,0.0,0
+2020-06-06,New Hampshire,US,5152.0,284.0,0.0,0
+2020-06-07,New Hampshire,US,5229.0,292.0,0.0,0
+2020-06-08,New Hampshire,US,5286.0,298.0,0.0,0
+2020-06-09,New Hampshire,US,5321.0,305.0,0.0,0
+2020-06-10,New Hampshire,US,5390.0,312.0,0.0,0
+2020-06-04,New Jersey,US,164133.0,12052.0,-0.0,0
+2020-06-05,New Jersey,US,165272.0,12234.0,-0.0,0
+2020-06-06,New Jersey,US,165967.0,12353.0,-0.0,0
+2020-06-07,New Jersey,US,167273.0,12380.0,-0.0,0
+2020-06-08,New Jersey,US,168232.0,12364.0,-0.0,0
+2020-06-09,New Jersey,US,168821.0,12466.0,0.0,0
+2020-06-10,New Jersey,US,169661.0,12602.0,-0.0,0
+2020-06-04,New Mexico,US,8241.0,383.0,0.0,0
+2020-06-05,New Mexico,US,8377.0,390.0,0.0,0
+2020-06-06,New Mexico,US,8540.0,395.0,0.0,0
+2020-06-07,New Mexico,US,8680.0,401.0,0.0,0
+2020-06-08,New Mexico,US,8745.0,406.0,0.0,0
+2020-06-09,New Mexico,US,8811.0,413.0,0.0,0
+2020-06-10,New Mexico,US,8950.0,421.0,0.0,0
+2020-06-04,New York,US,377729.0,30547.0,0.0,0
+2020-06-05,New York,US,380738.0,30819.0,0.0,0
+2020-06-06,New York,US,384078.0,30897.0,0.0,0
+2020-06-07,New York,US,385984.0,30914.0,0.0,0
+2020-06-08,New York,US,387876.0,30817.0,0.0,0
+2020-06-09,New York,US,390216.0,30786.0,0.0,0
+2020-06-10,New York,US,392490.0,30961.0,0.0,0
+2020-06-04,North Carolina,US,31728.0,1007.0,0.0,0
+2020-06-05,North Carolina,US,32697.0,1035.0,0.0,0
+2020-06-06,North Carolina,US,33744.0,1052.0,0.0,0
+2020-06-07,North Carolina,US,34506.0,1065.0,0.0,0
+2020-06-08,North Carolina,US,35020.0,1082.0,0.0,0
+2020-06-09,North Carolina,US,35501.0,1108.0,0.0,0
+2020-06-10,North Carolina,US,36177.0,1133.0,0.0,0
+2020-06-04,North Dakota,US,2749.0,66.0,0.0,0
+2020-06-05,North Dakota,US,2791.0,68.0,0.0,0
+2020-06-06,North Dakota,US,2847.0,70.0,0.0,0
+2020-06-07,North Dakota,US,2891.0,71.0,0.0,0
+2020-06-08,North Dakota,US,2926.0,72.0,0.0,0
+2020-06-09,North Dakota,US,2932.0,74.0,0.0,0
+2020-06-10,North Dakota,US,2957.0,76.0,0.0,0
+2020-06-04,Ohio,US,37336.0,2342.0,0.0,0
+2020-06-05,Ohio,US,37902.0,2405.0,0.0,0
+2020-06-06,Ohio,US,38378.0,2453.0,0.0,0
+2020-06-07,Ohio,US,38961.0,2469.0,0.0,0
+2020-06-08,Ohio,US,39595.0,2499.0,0.0,0
+2020-06-09,Ohio,US,39921.0,2541.0,0.0,0
+2020-06-10,Ohio,US,40261.0,2585.0,0.0,0
+2020-06-04,Oklahoma,US,6916.0,344.0,0.0,0
+2020-06-05,Oklahoma,US,7011.0,346.0,0.0,0
+2020-06-06,Oklahoma,US,7089.0,350.0,0.0,0
+2020-06-07,Oklahoma,US,7158.0,355.0,0.0,0
+2020-06-08,Oklahoma,US,7219.0,356.0,0.0,0
+2020-06-09,Oklahoma,US,7308.0,361.0,0.0,0
+2020-06-10,Oklahoma,US,7382.0,364.0,0.0,0
+2020-06-04,Oregon,US,4437.0,159.0,0.0,0
+2020-06-05,Oregon,US,4512.0,162.0,0.0,0
+2020-06-06,Oregon,US,4552.0,164.0,0.0,0
+2020-06-07,Oregon,US,4594.0,166.0,0.0,0
+2020-06-08,Oregon,US,4659.0,169.0,0.0,0
+2020-06-09,Oregon,US,4725.0,174.0,0.0,0
+2020-06-10,Oregon,US,4749.0,176.0,0.0,0
+2020-06-04,Pennsylvania,US,79090.0,5931.0,0.0,0
+2020-06-05,Pennsylvania,US,80210.0,6087.0,0.0,0
+2020-06-06,Pennsylvania,US,81176.0,6191.0,0.0,0
+2020-06-07,Pennsylvania,US,82227.0,6282.0,0.0,0
+2020-06-08,Pennsylvania,US,83378.0,6329.0,0.0,0
+2020-06-09,Pennsylvania,US,84498.0,6386.0,0.0,0
+2020-06-10,Pennsylvania,US,85476.0,6449.0,0.0,0
+2020-06-04,Rhode Island,US,15270.0,777.0,0.0,0
+2020-06-05,Rhode Island,US,15466.0,800.0,0.0,0
+2020-06-06,Rhode Island,US,15671.0,819.0,0.0,0
+2020-06-07,Rhode Island,US,15784.0,831.0,0.0,0
+2020-06-08,Rhode Island,US,15813.0,840.0,0.0,0
+2020-06-09,Rhode Island,US,15853.0,853.0,0.0,0
+2020-06-10,Rhode Island,US,15964.0,861.0,0.0,0
+2020-06-04,South Carolina,US,12719.0,517.0,0.0,0
+2020-06-05,South Carolina,US,12981.0,526.0,0.0,0
+2020-06-06,South Carolina,US,13255.0,529.0,0.0,0
+2020-06-07,South Carolina,US,13501.0,528.0,0.0,0
+2020-06-08,South Carolina,US,13687.0,532.0,0.0,0
+2020-06-09,South Carolina,US,13924.0,541.0,0.0,0
+2020-06-10,South Carolina,US,14153.0,554.0,0.0,0
+2020-06-04,South Dakota,US,5207.0,65.0,0.0,0
+2020-06-05,South Dakota,US,5290.0,70.0,0.0,0
+2020-06-06,South Dakota,US,5396.0,73.0,0.0,0
+2020-06-07,South Dakota,US,5514.0,73.0,0.0,0
+2020-06-08,South Dakota,US,5662.0,74.0,0.0,0
+2020-06-09,South Dakota,US,5803.0,76.0,0.0,0
+2020-06-10,South Dakota,US,5918.0,77.0,0.0,0
+2020-06-04,Tennessee,US,24782.0,395.0,0.0,0
+2020-06-05,Tennessee,US,25048.0,403.0,0.0,0
+2020-06-06,Tennessee,US,25387.0,410.0,0.0,0
+2020-06-07,Tennessee,US,25580.0,411.0,0.0,0
+2020-06-08,Tennessee,US,25868.0,415.0,0.0,0
+2020-06-09,Tennessee,US,26351.0,426.0,0.0,0
+2020-06-10,Tennessee,US,26599.0,433.0,0.0,0
+2020-06-04,Texas,US,70295.0,1766.0,0.0,0
+2020-06-05,Texas,US,71511.0,1785.0,0.0,0
+2020-06-06,Texas,US,73155.0,1803.0,0.0,0
+2020-06-07,Texas,US,74496.0,1821.0,0.0,0
+2020-06-08,Texas,US,75649.0,1838.0,0.0,0
+2020-06-09,Texas,US,77329.0,1867.0,0.0,0
+2020-06-10,Texas,US,78928.0,1897.0,0.0,0
+2020-06-04,Utah,US,10701.0,119.0,0.0,0
+2020-06-05,Utah,US,10922.0,123.0,0.0,0
+2020-06-06,Utah,US,11106.0,127.0,0.0,0
+2020-06-07,Utah,US,11270.0,128.0,0.0,0
+2020-06-08,Utah,US,11390.0,128.0,0.0,0
+2020-06-09,Utah,US,11507.0,132.0,0.0,0
+2020-06-10,Utah,US,11660.0,135.0,0.0,0
+2020-06-04,Vermont,US,1015.0,55.0,0.0,0
+2020-06-05,Vermont,US,1029.0,55.0,0.0,0
+2020-06-06,Vermont,US,1039.0,56.0,0.0,0
+2020-06-07,Vermont,US,1046.0,55.0,0.0,0
+2020-06-08,Vermont,US,1042.0,54.0,0.0,0
+2020-06-09,Vermont,US,1041.0,53.0,0.0,0
+2020-06-10,Vermont,US,1045.0,52.0,0.0,0
+2020-06-04,Virginia,US,48052.0,1501.0,0.0,0
+2020-06-05,Virginia,US,48580.0,1528.0,0.0,0
+2020-06-06,Virginia,US,49293.0,1555.0,0.0,0
+2020-06-07,Virginia,US,50210.0,1584.0,0.0,0
+2020-06-08,Virginia,US,51031.0,1609.0,0.0,0
+2020-06-09,Virginia,US,51911.0,1634.0,0.0,0
+2020-06-10,Virginia,US,52794.0,1658.0,0.0,0
+2020-06-04,West Virginia,US,2138.0,76.0,0.0,0
+2020-06-05,West Virginia,US,2173.0,77.0,0.0,0
+2020-06-06,West Virginia,US,2194.0,77.0,0.0,0
+2020-06-07,West Virginia,US,2256.0,77.0,0.0,0
+2020-06-08,West Virginia,US,2292.0,76.0,0.0,0
+2020-06-09,West Virginia,US,2314.0,76.0,0.0,0
+2020-06-10,West Virginia,US,2359.0,76.0,0.0,0
+2020-06-04,Wisconsin,US,19792.0,625.0,-0.0,0
+2020-06-05,Wisconsin,US,20274.0,641.0,-0.0,0
+2020-06-06,Wisconsin,US,20713.0,655.0,-0.0,0
+2020-06-07,Wisconsin,US,21018.0,661.0,-0.0,0
+2020-06-08,Wisconsin,US,21242.0,670.0,-0.0,0
+2020-06-09,Wisconsin,US,21555.0,685.0,-0.0,0
+2020-06-10,Wisconsin,US,21917.0,696.0,0.0,0
+2020-06-04,Wyoming,US,936.0,16.0,0.0,0
+2020-06-05,Wyoming,US,947.0,16.0,0.0,0
+2020-06-06,Wyoming,US,956.0,16.0,0.0,0
+2020-06-07,Wyoming,US,952.0,16.0,0.0,0
+2020-06-08,Wyoming,US,949.0,16.0,0.0,0
+2020-06-09,Wyoming,US,959.0,16.0,0.0,0
+2020-06-10,Wyoming,US,963.0,17.0,0.0,0
+2020-06-04,Alabama,US,19623.0,677.0,0.0,0
+2020-06-05,Alabama,US,20133.0,697.0,0.0,0
+2020-06-06,Alabama,US,20500.0,712.0,0.0,0
+2020-06-07,Alabama,US,20988.0,726.0,0.0,0
+2020-06-08,Alabama,US,21470.0,734.0,0.0,0
+2020-06-09,Alabama,US,21867.0,744.0,0.0,0
+2020-06-10,Alabama,US,22276.0,759.0,0.0,0
+2020-06-04,Puerto Rico,US,4205.0,142.0,0.0,0
+2020-06-05,Puerto Rico,US,4318.0,144.0,0.0,0
+2020-06-06,Puerto Rico,US,4411.0,146.0,0.0,0
+2020-06-07,Puerto Rico,US,4539.0,147.0,0.0,0
+2020-06-08,Puerto Rico,US,4647.0,148.0,0.0,0
+2020-06-09,Puerto Rico,US,4690.0,151.0,0.0,0
+2020-06-10,Puerto Rico,US,4752.0,154.0,0.0,0
+2020-03-16,"Virgin Islands, U.S.",US,1.0,0.0,0.0,0
+2020-03-17,"Virgin Islands, U.S.",US,1.0,0.0,0.0,0
+2020-03-18,"Virgin Islands, U.S.",US,1.0,0.0,0.0,0
+2020-03-19,"Virgin Islands, U.S.",US,1.0,0.0,0.0,0
+2020-03-20,"Virgin Islands, U.S.",US,1.0,0.0,0.0,0
+2020-03-21,"Virgin Islands, U.S.",US,1.0,0.0,0.0,0
+2020-03-22,"Virgin Islands, U.S.",US,1.0,0.0,0.0,0
+2020-06-04,Guam,US,182.0,6.0,0.0,0
+2020-06-05,Guam,US,188.0,5.0,0.0,0
+2020-06-06,Guam,US,190.0,5.0,0.0,0
+2020-06-07,Guam,US,191.0,5.0,0.0,0
+2020-06-08,Guam,US,190.0,5.0,0.0,0
+2020-06-09,Guam,US,190.0,5.0,0.0,0
+2020-06-10,Guam,US,191.0,5.0,0.0,0
+2020-06-04,Virgin Islands,US,72.0,7.0,0.0,0
+2020-06-05,Virgin Islands,US,73.0,7.0,0.0,0
+2020-06-06,Virgin Islands,US,73.0,7.0,0.0,0
+2020-06-07,Virgin Islands,US,71.0,7.0,0.0,0
+2020-06-08,Virgin Islands,US,71.0,7.0,0.0,0
+2020-06-09,Virgin Islands,US,71.0,7.0,0.0,0
+2020-06-10,Virgin Islands,US,71.0,7.0,0.0,0
+2020-03-23,US,US,1.0,0.0,772.0,0
+2020-03-24,US,US,1.0,0.0,3420.0,0
+2020-03-25,US,US,1.0,0.0,1973.0,0
+2020-03-26,US,US,1.0,0.0,3663.0,0
+2020-03-27,US,US,1.0,0.0,3242.0,0
+2020-03-28,US,US,1.0,0.0,2780.0,0
+2020-03-22,United States Virgin Islands,US,106.0,0.0,0.0,0
+2020-03-23,United States Virgin Islands,US,84.0,0.0,0.0,0
+2020-03-25,United States Virgin Islands,US,21.0,0.0,0.0,0
+2020-03-31,American Samoa,US,0.0,0.0,0.0,0
+2020-04-01,American Samoa,US,0.0,0.0,0.0,0
+2020-04-02,American Samoa,US,0.0,0.0,0.0,0
+2020-04-03,American Samoa,US,0.0,0.0,0.0,0
+2020-04-04,American Samoa,US,0.0,0.0,0.0,0
+2020-04-05,American Samoa,US,0.0,0.0,0.0,0
+2020-04-06,American Samoa,US,0.0,0.0,0.0,0
+2020-06-04,Northern Mariana Islands,US,24.0,5.0,0.0,0
+2020-06-05,Northern Mariana Islands,US,24.0,2.0,0.0,0
+2020-06-06,Northern Mariana Islands,US,24.0,3.0,0.0,0
+2020-06-07,Northern Mariana Islands,US,24.0,4.0,0.0,0
+2020-06-08,Northern Mariana Islands,US,25.0,3.0,0.0,0
+2020-06-09,Northern Mariana Islands,US,25.0,3.0,0.0,0
+2020-06-10,Northern Mariana Islands,US,27.0,6.0,0.0,0
+2020-06-04,Recovered,US,0.0,0.0,483640.0,0
+2020-06-05,Recovered,US,0.0,0.0,493158.0,0
+2020-06-06,Recovered,US,0.0,0.0,503670.0,0
+2020-06-07,Recovered,US,0.0,0.0,512724.0,0
+2020-06-08,Recovered,US,0.0,0.0,523070.0,0
+2020-06-09,Recovered,US,0.0,0.0,531153.0,0
+2020-06-10,Recovered,US,0.0,0.0,537960.0,0
+2020-06-07,Chernihiv Oblast,Ukraine,603.0,6.0,63.0,0
+2020-06-07,Chernivtsi Oblast,Ukraine,20179.0,65.0,704.0,0
+2020-06-04,Crimea Republic*,Ukraine,2953.0,73.0,3159.0,0
+2020-06-09,Crimea Republic*,Ukraine,2267.0,95.0,1424.0,0
+2020-06-10,Crimea Republic*,Ukraine,1777.0,77.0,4872.0,0
+2020-06-07,Dnipropetrovsk Oblast,Ukraine,14668.0,21.0,11594.0,0
+2020-06-09,Dnipropetrovsk Oblast,Ukraine,1569.0,21.0,4060.0,0
+2020-06-04,Donetsk Oblast,Ukraine,212.0,71.0,305.0,0
+2020-06-05,Donetsk Oblast,Ukraine,2625.0,22.0,474.0,0
+2020-06-06,Donetsk Oblast,Ukraine,2063.0,45.0,397.0,0
+2020-06-10,Kharkiv Oblast,Ukraine,16750.0,477.0,1646.0,0
+2020-06-05,Kherson Oblast,Ukraine,4234.0,3.0,161.0,0
+2020-06-07,Kherson Oblast,Ukraine,3224.0,3.0,161.0,0
+2020-06-08,Kherson Oblast,Ukraine,3097.0,3.0,161.0,0
+2020-06-09,Kherson Oblast,Ukraine,2445.0,3.0,161.0,0
+2020-06-05,Khmelnytskyi Oblast,Ukraine,8343.0,11.0,4345.0,0
+2020-06-06,Khmelnytskyi Oblast,Ukraine,5601.0,11.0,3022.0,0
+2020-06-08,Khmelnytskyi Oblast,Ukraine,2524.0,11.0,1302.0,0
+2020-06-09,Khmelnytskyi Oblast,Ukraine,8855.0,11.0,2246.0,0
+2020-06-04,Kiev,Ukraine,55603.0,111.0,4274.0,0
+2020-06-07,Kiev,Ukraine,15104.0,613.0,267.0,0
+2020-06-09,Kiev,Ukraine,17705.0,1690.0,3054.0,0
+2020-06-04,Kiev Oblast,Ukraine,11082.0,536.0,6691.0,0
+2020-06-06,Kiev Oblast,Ukraine,36143.0,39.0,5402.0,0
+2020-06-07,Kirovohrad Oblast,Ukraine,3790.0,75.0,2834.0,0
+2020-06-08,Kirovohrad Oblast,Ukraine,4150.0,94.0,3361.0,0
+2020-06-04,Luhansk Oblast,Ukraine,1651.0,0.0,40.0,0
+2020-06-05,Luhansk Oblast,Ukraine,1023.0,0.0,40.0,0
+2020-06-07,Lviv Oblast,Ukraine,8677.0,421.0,3938.0,0
+2020-06-09,Lviv Oblast,Ukraine,17182.0,272.0,3431.0,0
+2020-06-10,Lviv Oblast,Ukraine,33573.0,1208.0,9578.0,0
+2020-06-05,Mykolaiv Oblast,Ukraine,1655.0,7.0,1844.0,0
+2020-06-07,Mykolaiv Oblast,Ukraine,2979.0,7.0,1185.0,0
+2020-06-10,Mykolaiv Oblast,Ukraine,852.0,7.0,1641.0,0
+2020-06-04,Odessa Oblast,Ukraine,7394.0,17.0,2201.0,0
+2020-06-05,Odessa Oblast,Ukraine,13513.0,17.0,2310.0,0
+2020-06-08,Odessa Oblast,Ukraine,1276.0,17.0,2776.0,0
+2020-06-04,Rivne Oblast,Ukraine,57732.0,388.0,27411.0,0
+2020-06-07,Rivne Oblast,Ukraine,16011.0,1129.0,439.0,0
+2020-06-06,Sevastopol*,Ukraine,2927.0,3.0,2601.0,0
+2020-06-08,Sevastopol*,Ukraine,5249.0,3.0,1142.0,0
+2020-06-07,Ternopil Oblast,Ukraine,40536.0,26.0,31015.0,0
+2020-06-08,Ternopil Oblast,Ukraine,26215.0,26.0,3816.0,0
+2020-06-09,Ternopil Oblast,Ukraine,18722.0,26.0,14928.0,0
+2020-06-10,Ternopil Oblast,Ukraine,12739.0,26.0,6329.0,0
+2020-06-04,Vinnytsia Oblast,Ukraine,571.0,16.0,427.0,0
+2020-06-05,Volyn Oblast,Ukraine,29283.0,477.0,476.0,0
+2020-06-09,Zakarpattia Oblast,Ukraine,9376.0,28.0,1758.0,0
+2020-06-10,Zakarpattia Oblast,Ukraine,9084.0,28.0,1641.0,0
+2020-06-08,Zaporizhia Oblast,Ukraine,11637.0,13.0,2339.0,0

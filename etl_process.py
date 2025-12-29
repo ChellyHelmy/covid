@@ -3,52 +3,44 @@ import pygrametl
 from pygrametl.datasources import CSVSource
 from pygrametl.tables import Dimension, FactTable
 import psycopg2
-import glob
 
 # --- 1. CLEANING DATA WITH PANDAS ---
-print("Step 1: Cleaning data with Pandas...")
+print("Step 1: Cleaning the new dataset...")
 
-file_list = glob.glob("*.csv")
-all_data = []
+file_name = "forecasts_custom_prophet.csv"
+df = pd.read_csv(file_name)
 
-for file in file_list:
-    # Skip the temporary final file if it exists to avoid infinite loops
-    if "final_cleaned_covid.csv" in file: 
-        continue
-    
-    try:
-        df = pd.read_csv(file)
-        # Standardize column names (fixes differences between files)
-        df.columns = [c.replace('Country/Region', 'Country')
-                       .replace('Date last updated', 'Last Update')
-                       .replace('Death', 'Deaths') for c in df.columns]
-        all_data.append(df)
-        print(f"  - Loaded {file}")
-    except Exception as e:
-        print(f"  - Error loading {file}: {e}")
+# FIX: Supprimer les lignes où ObservationDate est "0" ou contient seulement des 0
+# Ces lignes empêchent la conversion des dates
+df = df[df['ObservationDate'].astype(str) != '0']
 
-# Combine all CSVs into one big table
-combined_df = pd.concat(all_data, ignore_index=True)
+# Renommer les colonnes pour la cohérence
+df = df.rename(columns={
+    'ObservationDate': 'Last Update',
+    'Country/Region': 'Country'
+})
 
-# Fill empty values (DWH requires no Nulls in measures)
-combined_df['Province/State'] = combined_df['Province/State'].fillna('Unknown')
-combined_df[['Confirmed', 'Deaths', 'Recovered', 'Suspected']] = combined_df[['Confirmed', 'Deaths', 'Recovered', 'Suspected']].fillna(0)
+# Remplir les valeurs manquantes
+df['Province/State'] = df['Province/State'].fillna('Unknown')
+df['Suspected'] = 0  # Cette colonne n'existe pas dans ce fichier
+df[['Confirmed', 'Deaths', 'Recovered']] = df[['Confirmed', 'Deaths', 'Recovered']].fillna(0)
 
-# FIX: Handle multiple date formats safely (mixed format)
-combined_df['Last Update'] = pd.to_datetime(combined_df['Last Update'], format='mixed', dayfirst=False).dt.date
+# FIX: Utiliser errors='coerce' pour transformer les dates invalides restantes en NaT (Not a Time)
+# Puis supprimer ces NaT
+df['Last Update'] = pd.to_datetime(df['Last Update'], errors='coerce')
+df = df.dropna(subset=['Last Update'])
+df['Last Update'] = df['Last Update'].dt.date
 
-# Save a clean master file for the next step
-combined_df.to_csv("final_cleaned_covid.csv", index=False)
-print("Step 1 Complete: Created final_cleaned_covid.csv")
+# Sauvegarder la version propre
+df.to_csv("final_cleaned_covid_new.csv", index=False)
+print(f"Step 1 Complete: Processed {len(df)} valid rows.")
 
 # --- 2. ETL WITH PYGRAMETL ---
-print("Step 2: Loading data into PostgreSQL using pygramETL...")
+print("Step 2: Loading data into PostgreSQL...")
 
-# database connection (Replace 'helmy' with your pgAdmin password if different)
 conn = psycopg2.connect(dbname="my_covid_db", user="postgres", password="helmy", host="localhost")
 connection = pygrametl.ConnectionWrapper(conn)
 
-# Define our Star Schema dimensions and facts
 location_dim = Dimension(name='dim_location', key='location_id', 
                          attributes=['province_state', 'country_region'],
                          lookupatts=['province_state', 'country_region'])
@@ -61,19 +53,15 @@ covid_fact = FactTable(name='fact_covid',
                        keyrefs=['location_id', 'date_id'], 
                        measures=['confirmed', 'deaths', 'recovered', 'suspected'])
 
-# Open the cleaned data source
-data_source = CSVSource(open('final_cleaned_covid.csv', 'r'), delimiter=',')
+data_source = CSVSource(open('final_cleaned_covid_new.csv', 'r'), delimiter=',')
 
 for row in data_source:
-    # A. HANDLE LOCATION (Manual Lookup then Insert)
+    # Location Lookup/Insert
     loc_id = location_dim.lookup({'province_state': row['Province/State'], 'country_region': row['Country']})
     if loc_id is None:
-        loc_id = location_dim.insert({
-            'province_state': row['Province/State'], 
-            'country_region': row['Country']
-        })
+        loc_id = location_dim.insert({'province_state': row['Province/State'], 'country_region': row['Country']})
     
-    # B. HANDLE DATE (Manual Lookup then Insert)
+    # Date Lookup/Insert
     dt_val = pd.to_datetime(row['Last Update'])
     dt_id = date_dim.lookup({'full_date': dt_val.date()})
     if dt_id is None:
@@ -85,7 +73,7 @@ for row in data_source:
             'quarter': (dt_val.month - 1) // 3 + 1
         })
     
-    # C. INSERT INTO FACT TABLE
+    # Fact Insert
     covid_fact.insert({
         'location_id': loc_id,
         'date_id': dt_id,
@@ -95,8 +83,6 @@ for row in data_source:
         'suspected': row['Suspected']
     })
 
-# Commit and close connection
 connection.commit()
 connection.close()
-
-print("\nSuccess! Your Data Warehouse is now full.")
+print("Success! Data loaded without the '0' values.")
