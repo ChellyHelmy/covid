@@ -137,5 +137,66 @@ plt.tight_layout()
 plt.savefig('top_guerisons.png')
 print("- Graphique 5 sauvegardé : top_guerisons.png")
 
-conn.close()
-print("\nTableau de bord terminé ! Vérifiez vos fichiers images.")
+
+def menu_interactif():
+    print("\n" + "="*35)
+    print("   SYSTÈME DE RECHERCHE PAR PAYS   ")
+    print("="*35)
+    
+    try:
+        # 1. Récupérer la liste de tous les pays disponibles
+        query_liste = "SELECT DISTINCT country_region FROM dim_location ORDER BY country_region"
+        cur = conn.cursor()
+        cur.execute(query_liste)
+        pays_disponibles = [row[0] for row in cur.fetchall()]
+
+        # 2. Afficher la liste avec des numéros
+        print("Choisissez un pays en tapant son numéro :")
+        for i, nom_pays in enumerate(pays_disponibles, 1):
+            print(f"{i}. {nom_pays}")
+
+        # 3. Demander le choix à l'utilisateur
+        choix = input("\nVotre choix (numéro) : ")
+        
+        # Vérification si l'entrée est un nombre valide
+        if choix.isdigit():
+            index = int(choix) - 1
+            if 0 <= index < len(pays_disponibles):
+                pays_selectionne = pays_disponibles[index]
+                
+                # 4. Exécuter la requête pour le pays sélectionné
+                query_stats = """
+                    SELECT SUM(confirmed), SUM(deaths), SUM(recovered)
+                    FROM fact_covid f
+                    JOIN dim_location l ON f.location_id = l.location_id
+                    WHERE l.country_region = %s
+                """
+                cur.execute(query_stats, (pays_selectionne,))
+                res = cur.fetchone()
+
+                if res and res[0] is not None:
+                    print(f"\n" + "-"*30)
+                    print(f"📊 RÉSULTATS POUR : {pays_selectionne.upper()}")
+                    print(f"-"*30)
+                    print(f"✅ Cas Confirmés : {int(res[0]):,}")
+                    print(f"💀 Décès         : {int(res[1]):,}")
+                    print(f"🎉 Guérisons     : {int(res[2]):,}")
+                    
+                    taux = (res[2] / res[0] * 100) if res[0] > 0 else 0
+                    print(f"📈 Taux de guérison : {taux:.2f}%")
+                else:
+                    print("⚠️ Aucune donnée trouvée pour ce pays.")
+            else:
+                print("❌ Numéro invalide. Veuillez relancer le script.")
+        else:
+            print("❌ Veuillez entrer un nombre entier.")
+
+    except Exception as e:
+        print(f"Erreur lors de la recherche : {e}")
+
+# IMPORTANT : Appelez la fonction juste avant conn.close()
+if __name__ == "__main__":
+    # Vos graphiques s'exécutent ici...
+    menu_interactif()
+    conn.close()
+    print("\nTableau de bord terminé ! Vérifiez vos fichiers images.")
