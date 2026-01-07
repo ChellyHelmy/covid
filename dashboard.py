@@ -16,7 +16,7 @@ except Exception as e:
     print(f"Erreur de connexion : {e}")
     sys.exit()
 
-# --- GRAPHIQUE 1 : Évolution temporelle (Ligne) ---
+
 # Ce graphique montre la progression globale des cas confirmés
 query1 = """
     SELECT d.full_date, SUM(f.confirmed) as total_confirmed
@@ -38,7 +38,7 @@ plt.tight_layout()
 plt.savefig('evolution_juin.png')
 print("- Graphique 1 sauvegardé : evolution_juin.png")
 
-# --- GRAPHIQUE 2 : Top 10 des Pays les plus touchés (Barres) ---
+
 # Analyse comparative des pays ayant le plus grand nombre de cas
 query2 = """
     SELECT l.country_region, SUM(f.confirmed) as total_confirmed
@@ -59,7 +59,7 @@ plt.tight_layout()
 plt.savefig('top_pays_juin.png')
 print("- Graphique 2 sauvegardé : top_pays_juin.png")
 
-# --- GRAPHIQUE 3 : Répartition de la Mortalité (Camembert) ---
+
 # Regroupement intelligent : Top 5 pays et les autres en catégorie "Autres"
 query3 = """
     SELECT l.country_region, SUM(f.deaths) as total_deaths
@@ -78,7 +78,7 @@ if not df_deaths.empty:
     df_plot = pd.concat([top_5, others_row])
 
     plt.figure(figsize=(10, 8))
-    # 'explode' pour détacher légèrement la part la plus importante
+    
     explode = [0.1 if i == 0 else 0 for i in range(len(df_plot))]
     
     plt.pie(df_plot['total_deaths'], 
@@ -94,7 +94,8 @@ if not df_deaths.empty:
     plt.tight_layout()
     plt.savefig('repartition_deces_juin.png')
     print("- Graphique 3 sauvegardé : repartition_deces_juin.png")
-# --- GRAPHIQUE 4 : Taux de Létalité par Pays (Analyse de Risque) ---
+
+
 # Le taux de létalité montre le pourcentage de décès parmi les cas confirmés
 query4 = """
     SELECT l.country_region, 
@@ -117,7 +118,7 @@ plt.tight_layout()
 plt.savefig('taux_letalite.png')
 print("- Graphique 4 sauvegardé : taux_letalite.png")
 
-# --- GRAPHIQUE 5 : Top 10 des Pays par Guérisons (Analyse de Rétablissement) ---
+# Top 10 des Pays par Guérisons (Analyse de Rétablissement) ---
 query5 = """
     SELECT l.country_region, SUM(f.recovered) as total_guéris
     FROM fact_covid f
